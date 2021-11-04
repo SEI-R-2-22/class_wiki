@@ -5,11 +5,11 @@
 </div>
 
 ___
-Welcome to the SEI-R-7-26 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
+Welcome to the SEI-R-11-8 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
 
-Daily Javascript Challenges can be found [here](https://github.com/SEI-R-7-26/daily_js_challenges).
+Daily Javascript Challenges can be found [here](https://github.com/SEI-R-11-8/daily_js_challenges).
 
-Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-7-26/cs_data_structures).
+Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-11-8/cs_data_structures).
 
 ___
 <details><summary><strong>Class Policies</strong></summary><p>
@@ -39,7 +39,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
   
 <ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-7-26/template_pull_request">PR Guidelines</a>.</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-11-8/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
   <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
   <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
@@ -162,7 +162,7 @@ ____
 </p></details>
 
 ___
-<details><summary><strong>Unit 2</strong> - React w/ Hooks / MongoDB / Express / Node</summary><p>
+<details><summary><strong>Unit 2</strong> - Full Stack Development w/ React</summary><p>
 
 <ul type="none">
 
@@ -240,7 +240,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 3</strong> - React Redux / Postgres / Sequelize</summary><p>
+<details><summary><strong>Unit 3</strong> - Full Stack Development w/ Redux</summary><p>
 
 <ul type="none">
 
@@ -316,7 +316,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 4</strong> - Vue.js / Python3 / Flask</summary><p>
+<details><summary><strong>Unit 4</strong> - Full Stack Development w/ Vue.js & Python</summary><p>
 
 <ul type="none">
 
