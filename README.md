@@ -110,7 +110,16 @@ ____
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -127,7 +136,7 @@ ____
   <li><details><summary><strong>Week 2</strong></summary><p>
   
   <p>
-  In Week 2, we practiced more <b>DOM Manipulation</b> and were introduced to <a href="https://github.com/SEI-R-4-26/daily_js_challenges">Daily JavaScript Challenges</a> and basic algorithmic problem solving. We and learned about <b>ES6</b> syntax along with <b>Higher Order Functions</b>, <b>Object Oriented Programming</b> in JavaScript, <b>npm scripts</b>, and fetching/accessing data with <b>APIs</b>.
+  Week 2 description...
   </p>
   
   <ul type="none">
@@ -136,17 +145,26 @@ ____
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Daily JS Challenges](https://github.com/SEI-R-7-26/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-7-26/u1_lesson_OOP) | [Box Model Practice](https://github.com/SEI-R-7-26/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-7-26/u1_lesson_intro_to_APIs) | [Unit 1 Assessment](https://github.com/SEI-R-7-26/u1_assessment) | 
-  | [ES6 Syntax](https://github.com/SEI-R-7-26/u1_lesson_js_ES6) | [OOP Lab](https://github.com/SEI-R-7-26/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-7-26/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-7-26/u1_lab_dogs_API) | [Project 1 Prompt](https://github.com/SEI-R-7-26/u1_project_prompt) | 
-  | [ES6 Lab](https://github.com/SEI-R-7-26/u1_lab_ES6_practice) | [OOP Exercise](https://github.com/SEI-R-7-26/u1_lab_oop_exercise) | [JS Fast & Furious](https://github.com/SEI-R-7-26/u1_hw_fast_and_furious) | [TMDB API Lab](https://github.com/SEI-R-7-26/u1_lab_TMDB_API) |  | 
-  | [JS HOF Lesson](https://github.com/SEI-R-7-26/u1_lesson_HOF) |  |  |  |  | 
-  | [JS HOF Practice](https://github.com/SEI-R-7-26/u1_lab_HOF) |  |  |  |  | 
-  | [JS HOF Homework](https://github.com/SEI-R-7-26/u1_hw_HOF) |  |  |  |  | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -169,7 +187,7 @@ ___
   <li><details><summary><strong>Week 4</strong></summary><p>
   
    <p>
-  In Week 4, we learned all about <b>React</b> and what an amazing language it can be for developers.  We learned the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>.  We learned hooks like <b>useState</b>, <b>useEffect</b>, and <b>useReducer</b> and where to best put them to use in our apps.  We learned about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We were also introduced to <b>React Router</b> and got to see how it gives us powerful new tools to build our React Apps.
+  Week 4 description...
   </p>
   
   <ul type="none">
@@ -178,17 +196,26 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to React](https://github.com/SEI-R-7-26/u2_lesson_react_intro) | [Component Heirarchy Diagrams](https://github.com/SEI-R-7-26/u2_lesson_component_heirarchy) | [Intro to useEffect](https://github.com/SEI-R-7-26/u3_lesson_useEffect) | [Conditional Rendering](https://github.com/SEI-R-7-26/u2_lesson_react_conditional_rendering) | [React w/ APIs](https://github.com/SEI-R-7-26/u2_lesson_react_APIs) | 
-  | [React Components Lab](https://github.com/SEI-R-7-26/u2_lesson_react_components) | [Mapping Components](https://github.com/SEI-R-7-26/u2_lesson_react_mapping_components) | [useEffect Stoplight Lab](https://github.com/SEI-R-7-26/u3_lab_useEffect_stoplight) | [Conditional Rendering Lab](https://github.com/SEI-R-7-26/u2_lab_conditional_rendering) | [Kanye useEffect Lab](https://github.com/SEI-R-7-26/u2_lab_kanye_useEffect) | 
-  | [React Props](https://github.com/SEI-R-7-26/u2_lesson_react_props) | [Mapping Components Lab](https://github.com/SEI-R-7-26/u2_lab_mapping_components) | [React Calculator Homework](https://github.com/SEI-R-7-26/u2_hw_react_hooks_calculator) | [Intro to useReducer](https://github.com/SEI-R-7-26/u2_lesson_useReducer) | [React Router](https://github.com/SEI-R-7-26/u2_lesson_react_router) | 
-  | [LOTR Lab](https://github.com/SEI-R-7-26/u2_lab_react_LOTR) | [Intro to State & Hooks](https://github.com/SEI-R-7-26/u2_lesson_intro_to_state) |  | [CSS Manipulator Homework](https://github.com/SEI-R-7-26/u2_lab_CSS_manipulator) | [React Router Lab](https://github.com/SEI-R-7-26/u2_lab_react_router) | 
-  | [React Quiz Homework](https://github.com/SEI-R-7-26/u2_quiz_react) | [Hooks ATM Lab](https://github.com/SEI-R-7-26/u3_lab_hooks_ATM) |  |  | [RAWG Router Homework](https://github.com/SEI-R-7-26/u2_hw_RAWG_router) | 
-  |  | [Movie Mapping Homework](https://github.com/SEI-R-7-26/u2_hw_mapping_components) |  |  |  | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -205,7 +232,7 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
   
   <p>
-    In Week 5, we introduced back-end and got to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learned how to implement <b>controllers</b>.  We then introduced <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.  At the end of the week, we learned some group <b>git</b> best-practices and got to build our first full stack app together in groups!
+  Week 5 description...
   </p>
   
   <ul type="none">
@@ -214,17 +241,26 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to Express](https://github.com/SEI-R-7-26/u2_lesson_express_intro) | [ERDs](https://github.com/SEI-R-7-26/u2_lesson_erd) | [Group Git](https://github.com/SEI-R-7-26/u2_lesson_group_git) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | 
-  | [Express Routes](https://github.com/SEI-R-7-26/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-7-26/u2_lesson_mongodb) | [Mongoose Associations](https://github.com/SEI-R-7-26/u2_lesson_mongoose_associations) |  | [Project 2 Prompt](https://github.com/SEI-R-7-26/u2_project_prompt) | 
-  | [Intro to Middleware](https://github.com/SEI-R-7-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-7-26/u2_lab_mongodb_sneakers) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) |  |  | 
-  | [Express Controllers](https://github.com/SEI-R-7-26/u2_lesson_express_controllers) | [Mongoose Data Modeling](https://github.com/SEI-R-7-26/u2_lesson_mongoose_data_model) |  |  |  | 
-  | [Express Fruits Homework](https://github.com/SEI-R-7-26/u2_hw_express_fruits) | [Mongoose / Express Lab](https://github.com/SEI-R-7-26/u2_lab_mongoose_express) |  |  |  |
-  |  | [Mongoose Plants Homework](https://github.com/SEI-R-7-26/u2_hw_mongoose_plants) |  |  |  | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -247,7 +283,7 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
   
   <p>
-  In Week 7, we were introduced to <b>React Redux</b> as a new way to manage our state in React! We learned about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learned how to map our state and actions to props. We also learned how to use a middleware called <b>thunk</b> in conjunction with Redux. We were introduced to <b>SQL databases</b> and started to learn SQL commands to interact with our database.  We also learned about the concept of <b>SQL Joins</b>.
+  Week 7 description...
   </p>
   
   <ul type="none">
@@ -256,16 +292,26 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | Labor Day Observed | [Intro to Redux](https://github.com/SEI-R-7-26/u3_lesson_redux_intro) | [Redux Middleware](https://github.com/SEI-R-7-26/u3_lesson_redux_middleware) | [Intro to SQL](https://github.com/SEI-R-7-26/u3_lesson_SQL_Intro) | [Kahn Academy](https://www.khanacademy.org/computing/computer-programming/sql) |
-  |  | [Redux Reducers](https://github.com/SEI-R-7-26/u3_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-7-26/u3_lab_redux_movies) | [SQL Practice Lab](https://github.com/SEI-R-7-26/u3_lab_SQL_Practice) | [SQL Codewars Homework](https://github.com/SEI-R-7-26/u3_hw_sql_codewars) |
-  |  | [Redux Actions & Types](https://github.com/SEI-R-7-26/u3_lesson_redux_actions_types) |  | [SQL Joins](https://github.com/SEI-R-7-26/u3_lesson_SQL_Joins) |  |
-  |  | [Redux Mapping State & Actions to Props](https://github.com/SEI-R-7-26/u3_lesson_mapping_state_props) |  | [SQL Joins Lab](https://github.com/SEI-R-7-26/u3_lab_SQL_Joins_Practice) |  |
-  |  | [Redux Quiz Homework](https://github.com/SEI-R-7-26/u3_hw_redux_quiz) |  | [Carmen Sandiego Homework](https://github.com/SEI-R-7-26/u3_hw_carmen_sandiego) |  |
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -282,7 +328,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
   
   <p>
-  In Week 8, we learned all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learned how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learned all about how to integrate <b>user authentication</b> in our apps.
+  Week 8 description...
   </p>
   
   <ul type="none">
@@ -291,16 +337,26 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Database Design](https://github.com/SEI-R-7-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-7-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-7-26/u3_lesson_JWT_auth) | [Project 3 Prompt](https://github.com/SEI-R-7-26/u3_project_prompt) | 
-  | [Intro to Sequelize](https://github.com/SEI-R-7-26/u3_lesson_sequelize_intro) | [Sequelize Migrations Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch](https://github.com/SEI-R-7-26/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-7-26/u3_lesson_sequelize_auth) |  | 
-  | [Sequelize Queries](https://github.com/SEI-R-7-26/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-7-26/u3_hw_jwt_auth_study) | [React Auth Lab](https://github.com/SEI-R-7-26/u3_lab_react_auth) |  | 
-  | [Sequelize Querying Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_querying) | [Sequelize Associations Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_associations_exercise) |  | [Sequelize Complex Associations Homework](https://github.com/SEI-R-7-26/u3_lesson_sequelize_complex_associations) |  | 
-  | [Sequelize Practice Homework](https://github.com/SEI-R-7-26/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-7-26/u3_hw_sequelize_associations_and_migrations) |  |  |  |
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -323,7 +379,7 @@ ___
   <li><details><summary><strong>Week 10</strong></summary><p>
   
   <p>
-  In Week 10, we learned a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learned how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learned how to use <b>Vue with APIs</b>, and how to use <b>Vue Router</b> to direct our page. Later in the week, we were introduced to <b>Python</b> and learned about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
+  Week 10 description...
   </p>
   
   <ul type="none">
@@ -332,17 +388,26 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Vue Intro](https://github.com/SEI-R-7-26/u4_lesson_vue_introduction) | [Vue Events & Emitters](https://github.com/SEI-R-7-26/u4_lesson_vue_events_emitters) | [Vue API Lab](https://github.com/SEI-R-7-26/u4_lab_vue_API) | [Vue Router](https://github.com/SEI-R-7-26/vue-router) | [Python Intro](https://github.com/SEI-R-7-26/u4_lesson_python_intro) | 
-  | [Vue Components & Props](https://github.com/SEI-R-7-26/u4_lesson_vue_components_props) | [Vue Rock, Paper, Scissor Lab/Homework](https://github.com/SEI-R-7-26/u4_lab_vue_rock_paper_scissor) | [Vue Messenger Homework](https://github.com/SEI-R-7-26/u4_hw_vue_messenger) | [Vue RAWG Lab/Homework](https://github.com/SEI-R-7-26/u4_hw_vue_rawg) | [Python Functions](https://github.com/SEI-R-7-26/u4_lesson_python_functions) | 
-  | [Vue State Methods](https://github.com/SEI-R-7-26/u4_lesson_vue_state) | [Vue APIs](https://github.com/SEI-R-7-26/u4_lesson_vue_API) | []() | []() | [Python Control Flow](https://github.com/SEI-R-7-26/u4_lesson_python_control_flow) | 
-  | [Vue Directives](https://github.com/SEI-R-7-26/u4_lesson_vue_directives) | []() | []() | []() | [Python Lists, Loops & Comprehension](https://github.com/SEI-R-7-26/u4_lesson_python_lists_loops) | 
-  | [Vue Quiz](https://forms.gle/tHxRjWLdUFuV21zA6) | []() | []() | []() | [Python Dictionaries](https://github.com/SEI-R-7-26/u4_lesson_python_dictionaries) | 
-  | []() | []() | []() | []() | [Python CYOA Homework](https://github.com/SEI-R-7-26/u4_hw_python_adventure) | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
@@ -359,7 +424,7 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
   
   <p>
-  In Week 11, we continued with Python by learning about <b>Virtual Environments</b>, <b>tuples</b>, and <b>OOP in Python</b>.  We then got a quick intro to <b>Flask</b> and setting up <b>Flask Resources</b>, how to use <b>Flask SQL Alchemy</b>, and how to set up <b>Auth in Flask</b>. At the end of the week, we got to participate in a <b>Flaskathon</b>!
+  Week 11 description...
   </p>
   
   <ul type="none">
@@ -368,18 +433,26 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Python Virtual Environments](https://github.com/SEI-R-7-26/u4_lesson_python_virtual_environments) | [Simple Flask API Lab](https://github.com/SEI-R-7-26/u4_lab_simple_flask_API) | [Flask Quiz](https://github.com/SEI-R-7-26/u4_lab_flask_quiz) | [Flask Auth](https://github.com/SEI-R-7-26/u4_lesson_flask_auth) | [Continue Flaskathon](https://github.com/SEI-R-7-26/u4_flaskathon) | 
-  | [Python Tuples](https://github.com/SEI-R-7-26/u4_lesson_python_tuples) | [Flask Resources](https://github.com/SEI-R-7-26/u4_lesson_flask_resources) | [Flask API Lab/Homework](https://github.com/SEI-R-7-26/u4_lab_flask_API) | [Flaskathon](https://github.com/SEI-R-7-26/u4_flaskathon) | [Project 4 Prompt](https://github.com/SEI-R-7-26/u4_project_prompt) | 
-  | [Tuple Exercise Lab](https://github.com/SEI-R-7-26/u4_lab_python_tuple_exercise) | [Flask Resources Lab](https://github.com/SEI-R-7-26/u4_lab_flask_resources_lab) |  |  |  | 
-  | [Python OOP](https://github.com/SEI-R-7-26/u4_lesson_python_oop) | [Flask SQLAlchemy](https://github.com/SEI-R-7-26/u4_lesson_flask_sqlalchemy) |  |  |  | 
-  | [Flask Intro](https://github.com/SEI-R-7-26/u4_lesson_python_flask_intro) | [Flask Associations](https://github.com/SEI-R-7-26/u4_lab_flask_associations) |  |  |  | 
-  | [CSV Parser Lab](https://github.com/SEI-R-7-26/u4_hw_python_csv_parser) |  |  |  |  | 
-  | [Python Smash Bros. Homework](https://github.com/SEI-R-7-26/u4_hw_python_smash_bros) |  |  |  |  |
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() |  
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
 
-  <li><details><summary>Class Recordings</summary><p>
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
