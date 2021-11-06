@@ -90,7 +90,7 @@ ____
   <li><details><summary><strong>Week 1</strong></summary><p>
   
   <p>
-  In Week 1, we reviewed the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. 
+  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. 
   </p>
   
   <ul type="none">
@@ -99,13 +99,13 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Mac Installfest](https://github.com/SEI-R-7-26/Installfest_Mac) | [Github Lesson](https://github.com/SEI-R-7-26/u1_lesson_github) | [Flexbox / Grid](https://github.com/SEI-R-7-26/u1_lesson_flex_grid) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
-  | [Windows Installfest](https://github.com/SEI-R-7-26/Installfest_Windows) | [Intro to HTML](https://github.com/SEI-R-7-26/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-7-26/u1_lesson_js_data_types) | [JS Functions](https://github.com/SEI-R-7-26/u1_lesson_js_functions) | [Intro to JS DOM](https://github.com/SEI-R-7-26/u1_lesson_DOM) |
-  | [Terminal Lesson](https://github.com/SEI-R-7-26/u1_lesson_terminal) | [Intro to CSS](https://github.com/SEI-R-7-26/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-7-26/u1_lesson_js_arrays) | [JS Scope](https://github.com/SEI-R-7-26/u1_lesson_js_scope) | [JS DOM Quotes Lab](https://github.com/SEI-R-7-26/u1_lab_DOM_quotes) |
-  | [Git Lesson](https://github.com/SEI-R-7-26/u1_lesson_git) | [Markdown Lesson](https://github.com/SEI-R-7-26/u1_lesson_markdown) | [JS Loops & Control Flow](https://github.com/SEI-R-7-26/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEI-R-7-26/u1_lesson_js_objects) | [JS Events & Callbacks](https://github.com/SEI-R-7-26/u1_lesson_events_callbacks) |
-  | [VS Code Lesson](https://github.com/SEI-R-7-26/u1_lesson_VSCode) | [HTML / CSS Lab](https://github.com/SEI-R-7-26/u1_lab_HTML_CSS_exercise) | [Control Flow Adventure Homework](https://github.com/SEI-R-7-26/u1_hw_control_flow_adventure) | [Jurassic Objects Lab](https://github.com/SEI-R-7-26/u1_lab_jurassic_objects) | [JS Event Bubbling](https://github.com/SEI-R-7-26/u1_lesson_event_bubbling) |
-  | [Terminal Lab](https://github.com/SEI-R-7-26/u1_lab_git_practice) | [Markdown Homework](https://github.com/SEI-R-7-26/u1_hw_markdown) |  | [Objects & Functions Lab](https://github.com/SEI-R-7-26/u1_lab_objects_functions) | [JS Dots Game Lab](https://github.com/SEI-R-7-26/u1_lab_dots) |
-  | [Star Wars Homework](https://github.com/SEI-R-7-26/u1_hw_star_wars) |  |  | [Codewars Homework](https://github.com/SEI-R-7-26/u1_hw_codewars_challenges) | [Tic Tac Toe Homework](https://github.com/SEI-R-7-26/u1_hw_tic_tac_toe) |
+  | [Installfest](https://github.com/SEI-R-11-8/u1_installfest) | [Github / Homework Submission](https://github.com/SEI-R-11-8/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | Veteran's Day | [Grid Garden](https://cssgridgarden.com/) |
+  | [Terminal Lesson](https://github.com/SEI-R-11-8/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-11-8/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-11-8/u1_lesson_js_data_types) |  | [Intro to JS DOM](https://github.com/SEI-R-11-8/u1_lesson_intro_DOM) |
+  | [Git Lesson](https://github.com/SEI-R-11-8/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-11-8/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-11-8/u1_lesson_js_arrays) |  | [JS DOM Quotes Lab](https://github.com/SEI-R-11-8/u1_lab_DOM_quotes) |
+  | [VS Code Lesson](https://github.com/SEI-R-11-8/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-11-8/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-11-8/u1_lesson_loops_and_control_flow) |  | [JS Events & Callbacks](https://github.com/SEI-R-11-8/u1_lesson_events_callbacks) |
+  | [Star Wars Homework](https://github.com/SEI-R-11-8/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-11-8/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-11-8/u1_lesson_js_functions) |  | [JS Dots Game Lab](https://github.com/SEI-R-11-8/u1_lab_dots) |
+  |  | [Markdown / ReadMe Homework](https://github.com/SEI-R-11-8/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-11-8/u1_lesson_js_scope) |  | [Tic Tac Toe Homework](https://github.com/SEI-R-11-8/u1_hw_tic_tac_toe) |
+  |  |  | [Control Flow Adventure Homework](https://github.com/SEI-R-11-8/u1_hw_control_flow_adventure) |  |  |
 
   </p></details></li>
 
