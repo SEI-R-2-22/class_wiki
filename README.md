@@ -79,6 +79,21 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 </ul>
   
 </p></details></li>
+
+<li><details><summary><strong>Observed Holidays</strong></summary><p>
+
+<p>
+The following dates are observed holidays for this Software Engineering Immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a specific circumstance, please don't hesitate to reach out to your Associate Instructor.
+</p>
+  
+| Holiday | Dates |
+|:---:|:---:|
+| Veteran's Day | November 11th, 2021 |
+| Thanksgiving | November 24th, 2021 - November 26th, 2021 |
+| Christmas/New Year's | December 24th, 2021 - December 31st, 2021 |
+| Martin Luther King Jr. Day | January 17th, 2022 |
+  
+</p></details></li>
   
 </ul></details>
 
