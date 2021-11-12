@@ -83,7 +83,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Observed Holidays</strong></summary><p>
 
 <p>
-The following dates are observed Holidays for this Software Engineering Immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your Associate Instructor.
+The following dates are observed Holidays for this Software Engineering Immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your Instructional Associate.
 </p>
   
 | Holiday | Dates |
