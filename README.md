@@ -165,7 +165,7 @@ ____
   | [Jurassic Objects Lab](https://github.com/SEI-R-11-8/u1_lab_jurassic_objects) | [Intro to OOP](https://github.com/SEI-R-11-8/u1_lesson_OOP) | [P1 Prompt](https://github.com/SEI-R-11-8/u1_project_prompt) |  |  | 
   | [ES6 Syntax](https://github.com/SEI-R-11-8/u1_lesson_ES6) | [OOP Exercise Lab](https://github.com/SEI-R-11-8/u1_lab_OOP_exercise) |  |  |  | 
   | [ES6 Lab](https://github.com/SEI-R-11-8/u1_lab_ES6_practice) | [Donut Adventure Homework](https://github.com/SEI-R-11-8/u1_hw_donut_adventure) |  |  |  | 
-  | [JS HOF Homework](https://github.com/SEI-R-11-8/u1_hw_HOF) |  |  |  |  | 
+  |  | [JS HOF Homework](https://github.com/SEI-R-11-8/u1_hw_HOF) |  |  |  | 
   
   </p></details></li>
 
