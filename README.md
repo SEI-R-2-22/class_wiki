@@ -151,7 +151,7 @@ ____
   <li><details><summary><strong>Week 2</strong></summary><p>
   
   <p>
-  Week 2 description...
+  In Week 2, we practiced more <b>DOM Manipulation</b> and were introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We and learned about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript.
   </p>
   
   <ul type="none">
@@ -160,12 +160,12 @@ ____
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() |  
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Intro Daily JS Challenges](https://github.com/SEI-R-11-8/daily_js_challenges) | [JS HOF](https://github.com/SEI-R-11-8/u1_lesson_HOF) | [Box Model Practice](https://github.com/SEI-R-11-8/u1_lab_box_model) | Project Worktime | Project Worktime | 
+  | [JS Objects](https://github.com/SEI-R-11-8/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/SEI-R-11-8/u1_lab_HOF) | [JS Fast & Furious Lab](https://github.com/SEI-R-11-8/u1_lab_fast_and_furious) |  |  |  
+  | [Jurassic Objects Lab](https://github.com/SEI-R-11-8/u1_lab_jurassic_objects) | [Intro to OOP](https://github.com/SEI-R-11-8/u1_lesson_OOP) | [P1 Prompt](https://github.com/SEI-R-11-8/u1_project_prompt) |  |  | 
+  | [ES6 Syntax](https://github.com/SEI-R-11-8/u1_lesson_ES6) | [OOP Exercise Lab](https://github.com/SEI-R-11-8/u1_lab_OOP_exercise) |  |  |  | 
+  | [ES6 Lab](https://github.com/SEI-R-11-8/u1_lab_ES6_practice) | [Donut Adventure Homework](https://github.com/SEI-R-11-8/u1_hw_donut_adventure) |  |  |  | 
+  | [JS HOF Homework](https://github.com/SEI-R-11-8/u1_hw_HOF) |  |  |  |  | 
   
   </p></details></li>
 
