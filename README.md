@@ -174,8 +174,8 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/as6F4CgbHeW_VKZ6m88mCXydTlcK0Gl4u1WPEA0BDtWg4rZm3rhZ2Ar_BMfJuvCA.UkhObJ6KRNrdmy9C) | [Recording](https://generalassembly.zoom.us/rec/share/VMkYr_Yu_9aqwUBgZBWbNwg6-rqXNh88_VhoTMyFyCntWL66u3j7W1WA68O_rOjR.528wd4XFOwlR4CuV) | No Recording | [Recording]() | [Recording]() |
-  | Passcode: `01AuV5i=` | Passcode: `M#zv3u5h` |  | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/as6F4CgbHeW_VKZ6m88mCXydTlcK0Gl4u1WPEA0BDtWg4rZm3rhZ2Ar_BMfJuvCA.UkhObJ6KRNrdmy9C) | [Recording](https://generalassembly.zoom.us/rec/share/VMkYr_Yu_9aqwUBgZBWbNwg6-rqXNh88_VhoTMyFyCntWL66u3j7W1WA68O_rOjR.528wd4XFOwlR4CuV) | No Recording | No Recording | No Recording |
+  | Passcode: `01AuV5i=` | Passcode: `M#zv3u5h` |  |  |  |
 
   </p></details></li>
 
@@ -183,8 +183,8 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/HTWvWciJF7mLDK4-y9kQUHptvB-GW2jQDpdbJdzljzUK_CFYVmNCuYIBeGLC3iQk.fu1kF3s7cZybW2jt) | [Recording](https://generalassembly.zoom.us/rec/share/yuVGp880PxgoNCp07ROxiXgISDQ6Nv8GP9ARa5Mh3vGEjXnTJgI-cYihV1N0AVcj.Rb-pjifg3YJmbjK3) | No Recording | [Recording]() | [Recording]() |
-  | Passcode: `U&a7ZxEh` | Passcode: `zi6%+W$d` |  | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/HTWvWciJF7mLDK4-y9kQUHptvB-GW2jQDpdbJdzljzUK_CFYVmNCuYIBeGLC3iQk.fu1kF3s7cZybW2jt) | [Recording](https://generalassembly.zoom.us/rec/share/yuVGp880PxgoNCp07ROxiXgISDQ6Nv8GP9ARa5Mh3vGEjXnTJgI-cYihV1N0AVcj.Rb-pjifg3YJmbjK3) | No Recording | No Recording | No Recording |
+  | Passcode: `U&a7ZxEh` | Passcode: `zi6%+W$d` |  |  |  |
 
   </p></details></li>
   
@@ -202,7 +202,7 @@ ___
   <li><details><summary><strong>Week 4</strong></summary><p>
   
    <p>
-  Week 4 description...
+     In Week 4, we started the week by learning how to call on external data sources with <b>APIs</b>.  Then we learned all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learned the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learned about <b>useState</b> and how to use it to manage our state within our apps.
   </p>
   
   <ul type="none">
@@ -211,12 +211,12 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() |  
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Intro to APIs](https://github.com/SEI-R-11-8/u1_lesson_intro_to_APIs) | [Momentum Lab](https://github.com/SEI-R-11-8/u2_lab_momentum) | [Intro to React](https://github.com/SEI-R-11-8/u2_lesson_intro_to_react) | [Component Heirarchy Diagrams](https://github.com/SEI-R-11-8/u2_lesson_component_heirarchy) | [Intro to State & Hooks](https://github.com/SEI-R-11-8/u2_lesson_intro_to_state) | 
+  | [Dogs API Lab](https://github.com/SEI-R-11-8/u1_lab_API_dogs) | [Dougie the Donut & Pizza Rat Lab / Homework](https://github.com/SEI-R-11-8/u2_lab_dougie_and_pizza_rat) | [React Components](https://github.com/SEI-R-11-8/u2_lesson_react_components) | [React Props](https://github.com/SEI-R-11-8/u2_lesson_react_props) | [Hooks ATM Lab](https://github.com/SEI-R-11-8/u2_lab_hooks_ATM) |  
+  | [TMDB Lab / Homework](https://github.com/SEI-R-11-8/u1_lab_TMDB_API) | []() | []() | [LOTR Lab](https://github.com/SEI-R-11-8/u2_lab_react_LOTR) | [Likes Lab](https://github.com/SEI-R-11-8/u2_lab_likes) | 
+  | []() | []() | []() | [Mapping Components](https://github.com/SEI-R-11-8/u2_lesson_react_mapping_components) | [Groceries Lab](https://github.com/SEI-R-11-8/u2_lab_groceries) | 
+  | []() | []() | []() | [Mapping Components Lab](https://github.com/SEI-R-11-8/u2_lab_mapping_components) | [Dr. Who Lab](https://github.com/SEI-R-11-8/u2_lab_dr_who) | 
+  | []() | []() | []() | [React Quiz](https://github.com/SEI-R-11-8/u2_quiz_react) | [Movie Mapping Homework](https://github.com/SEI-R-11-8/u2_hw_mapping_components) | 
   
   </p></details></li>
 
