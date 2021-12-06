@@ -247,7 +247,7 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
   
   <p>
-  Week 5 description...
+  In Week 5, we moved into more complicated React Hooks like <b>useEffect</b> and <b>useReducer</b>.  We learned about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We were also introduced to <b>React Router</b> and got to see how it gives us powerful new tools to build our React Apps. Then we were introduced to back-end and got to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learned how to implement <b>controllers</b>.  We then got a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.
   </p>
   
   <ul type="none">
@@ -256,12 +256,12 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() |  
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Intro to useEffect](https://github.com/SEI-R-11-8/u2_lesson_useEffect) | [Intro to useReducer](https://github.com/SEI-R-11-8/u2_lesson_useReducer) | [React Router](https://github.com/SEI-R-11-8/u2_lesson_react_router) | [Intro to Express](https://github.com/SEI-R-11-8/u2_lesson_express_intro) | [ERDs](https://github.com/SEI-R-11-8/u2_lesson_ERD) | 
+  | [Stoplight Lab](https://github.com/SEI-R-11-8/u2_lab_useEffect_stoplight) | [CSS Manipulator Lab / Homework](https://github.com/SEI-R-11-8/u2_lab_CSS_manipulator) | [React Router Lab](https://github.com/SEI-R-11-8/u2_lab_react_router) | [Express Routes](https://github.com/SEI-R-11-8/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-11-8/u2_lesson_mongoDB) |  
+  | [React Conditional Rendering](https://github.com/SEI-R-11-8/u2_lesson_react_conditional_rendering) | [React w/ APIs](https://github.com/SEI-R-11-8/u2_lesson_react_APIs) | [RAWG Router Homework](https://github.com/SEI-R-11-8/u2_hw_RAWG_router) | [Intro to Middleware](https://github.com/SEI-R-11-8/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-11-8/u2_lab_mongoDB_sneakers) | 
+  | [Conditional Rendering Lab](https://github.com/SEI-R-7-26/u2_lab_conditional_rendering) | [Kanye useEffect Lab](https://github.com/SEI-R-11-8/u2_lab_kanye_useEffect) | []() | [Express Controllers](https://github.com/SEI-R-11-8/u2_lesson_express_controllers) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-11-8/u2_lesson_mongoose_data_model) | 
+  | [React Calculator Homework](https://github.com/SEI-R-11-8/u2_hw_react_hooks_calculator) | []() | []() | [Express Fruits Homework](https://github.com/SEI-R-11-8/u2_hw_express_fruits) | [Mongoose Express](https://github.com/SEI-R-11-8/u2_lab_mongoose_express) | 
+  | []() | []() | []() | []() | [Mongoose Plants](https://github.com/SEI-R-11-8/u2_hw_mongoose_plants) | 
   
   </p></details></li>
 
