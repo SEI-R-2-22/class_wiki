@@ -270,8 +270,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/XZ8_1Iu4Rx8uS6RcxR1L74eWNLmH7yxozv8gJ62CSIZ10N-4vhu8R7qdU2M57QAi.sMf5x3q5Dk7oVMz1) | [Recording](https://generalassembly.zoom.us/rec/share/kkxzSLI4SzioSRQfbSO49fzubo6o3GYQ6A_33bWO69GzMWDm9m65h3XtupIt6_Tn.k-BeCNe6IsH7qtE3) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `B4qKFU7$` | Passcode: `B9Y$o8Y9` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/XZ8_1Iu4Rx8uS6RcxR1L74eWNLmH7yxozv8gJ62CSIZ10N-4vhu8R7qdU2M57QAi.sMf5x3q5Dk7oVMz1) | [Recording](https://generalassembly.zoom.us/rec/share/kkxzSLI4SzioSRQfbSO49fzubo6o3GYQ6A_33bWO69GzMWDm9m65h3XtupIt6_Tn.k-BeCNe6IsH7qtE3) | [Recording](https://generalassembly.zoom.us/rec/share/QUBwZFPBnw1rI84mkQPOIUCWyCIKjdUObHuedcdE4i3seH0ZrRMIdtGPd5DyNG8_.WXBSFuKv_b4rFghE) | [Recording]() | [Recording]() |
+  | Passcode: `B4qKFU7$` | Passcode: `B9Y$o8Y9` | Passcode: `bhF4&#d3` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -279,8 +279,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/SrwxHzMLoRiPq-C_fqndATwQhwAPmTstSSpK-LUiB0bcyM4JqOIwluEmxjOu5zed.-E-Z15wUvIJtJhZm) | [Recording](https://generalassembly.zoom.us/rec/share/I6eNygX5t1HckOdXs9MBj7wYhwvC3xWZ9Bw5ukyhAo6KORjJ-Tyb85g3sLmBrJz4.bG5f8ia5QwhIdec-) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `@oby3*1Z` | Passcode: `Fh0Vdg!A` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/SrwxHzMLoRiPq-C_fqndATwQhwAPmTstSSpK-LUiB0bcyM4JqOIwluEmxjOu5zed.-E-Z15wUvIJtJhZm) | [Recording](https://generalassembly.zoom.us/rec/share/I6eNygX5t1HckOdXs9MBj7wYhwvC3xWZ9Bw5ukyhAo6KORjJ-Tyb85g3sLmBrJz4.bG5f8ia5QwhIdec-) | [Recording](https://generalassembly.zoom.us/rec/share/VwrOId6AVPFYcc4d8MioDTxj8YHaUPQV8L-Uvh-yKnuw-b3f-US7ACM2LIoRbgSw.Zejy81kyGFz_uqRG) | [Recording]() | [Recording]() |
+  | Passcode: `@oby3*1Z` | Passcode: `Fh0Vdg!A` | Passcode: `^6BTkd9+` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
