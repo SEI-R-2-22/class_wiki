@@ -307,12 +307,10 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() |  
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [MongoDB Associations](https://github.com/SEI-R-11-8/u2_lesson_mongoose_associations) | [Full Stackathon](https://github.com/SEI-R-11-8/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-11-8/u2_full_stackathon) | Project 2 Worktime | Project 2 Worktime | 
+  | [ERDs](https://github.com/SEI-R-11-8/u2_lesson_ERD) | []() | [P2 Prompt](https://github.com/SEI-R-11-8/u2_project_prompt) | []() | []() |  
+  | [Group Git](https://github.com/SEI-R-11-8/u2_lesson_group_git) | []() | []() | []() | []() | 
+  | [Full Stackathon](https://github.com/SEI-R-11-8/u2_full_stackathon) | []() | []() | []() | []() | 
   
   </p></details></li>
 
@@ -330,8 +328,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/KI4_p1DpgaSahMHXZxv8RaZJZ3mnLA9kTfMoFVHlj3vxUsYf23yPkQdzZojKdcGx.xzWRn1iEYwnskj8U) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `D6FGqy@w` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
