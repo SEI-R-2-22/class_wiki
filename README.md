@@ -254,21 +254,20 @@ ___
 
   <li><details><summary>Repos</summary><p>
   
-  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 |
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Week 5+ |
   |:---:|:---:|:---:|:---:|:---:|:---:|
-  | [Intro to useEffect](https://github.com/SEI-R-11-8/u2_lesson_useEffect) | [Intro to useReducer](https://github.com/SEI-R-11-8/u2_lesson_useReducer) | [React Router](https://github.com/SEI-R-11-8/u2_lesson_react_router) | [Intro to Express](https://github.com/SEI-R-11-8/u2_lesson_express_intro) | [ERDs](https://github.com/SEI-R-11-8/u2_lesson_ERD) | [MongoDB Associations](https://github.com/SEI-R-11-8/u2_lesson_mongoose_associations) |
-  | [Stoplight Lab](https://github.com/SEI-R-11-8/u2_lab_useEffect_stoplight) | [React w/ APIs](https://github.com/SEI-R-11-8/u2_lesson_react_APIs) | [React Router Lab](https://github.com/SEI-R-11-8/u2_lab_react_router) | [Express Routes](https://github.com/SEI-R-11-8/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-11-8/u2_lesson_mongoDB) | [ERDs](https://github.com/SEI-R-11-8/u2_lesson_ERD) |
-  | [React Conditional Rendering](https://github.com/SEI-R-11-8/u2_lesson_react_conditional_rendering) | [Password Validator Lab](https://github.com/SEI-R-11-8/u2_lab_password_validator) | [RAWG Router Homework](https://github.com/SEI-R-11-8/u2_hw_RAWG_router) | [Intro to Middleware](https://github.com/SEI-R-11-8/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-11-8/u2_lab_mongoDB_sneakers) | [Group Git](https://github.com/SEI-R-11-8/u2_lesson_group_git) |
-  | [Conditional Rendering Lab](https://github.com/SEI-R-11-8/u2_lab_conditional_rendering) | [Kanye useEffect Lab](https://github.com/SEI-R-11-8/u2_lab_kanye_useEffect) | [RAWG Router Walkthrough](https://generalassembly.zoom.us/rec/share/p7sDZLwkf8nOVUndk8F5ARqkuO0Yl-IbRmlv0uV9P-mhRH2fNqS7xfG-QyAA55DD.wT8BLnnPuwIvJTR8) | [Express Controllers](https://github.com/SEI-R-11-8/u2_lesson_express_controllers) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-11-8/u2_lesson_mongoose_data_model) | [Full Stackathon](https://github.com/SEI-R-11-8/u2_full_stackathon) |
-  | [React Calculator Homework](https://github.com/SEI-R-11-8/u2_hw_react_hooks_calculator) | []() | Passcode: `*7$UGZ0i` | [Express Fruits Homework](https://github.com/SEI-R-11-8/u2_hw_express_fruits) | [Mongoose Express](https://github.com/SEI-R-11-8/u2_lab_mongoose_express) | []() |
-  | []() | []() | []() | []() | [Mongoose Plants](https://github.com/SEI-R-11-8/u2_hw_mongoose_plants) | []() |
+  | [Intro to useEffect](https://github.com/SEI-R-11-8/u2_lesson_useEffect) | [Intro to useReducer](https://github.com/SEI-R-11-8/u2_lesson_useReducer) | [React Router](https://github.com/SEI-R-11-8/u2_lesson_react_router) | [Intro to Express](https://github.com/SEI-R-11-8/u2_lesson_express_intro) | [MongoDB](https://github.com/SEI-R-11-8/u2_lesson_mongoDB) | [MongoDB Associations](https://github.com/SEI-R-11-8/u2_lesson_mongoose_associations) |
+  | [Stoplight Lab](https://github.com/SEI-R-11-8/u2_lab_useEffect_stoplight) | [React w/ APIs](https://github.com/SEI-R-11-8/u2_lesson_react_APIs) | [React Router Lab](https://github.com/SEI-R-11-8/u2_lab_react_router) | [Express Routes](https://github.com/SEI-R-11-8/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/SEI-R-11-8/u2_lab_mongoDB_sneakers) | [ERDs](https://github.com/SEI-R-11-8/u2_lesson_ERD) |
+  | [React Conditional Rendering](https://github.com/SEI-R-11-8/u2_lesson_react_conditional_rendering) | [Password Validator Lab](https://github.com/SEI-R-11-8/u2_lab_password_validator) | [RAWG Router Homework](https://github.com/SEI-R-11-8/u2_hw_RAWG_router) | [Intro to Middleware](https://github.com/SEI-R-11-8/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-11-8/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/SEI-R-11-8/u2_lesson_group_git) |
+  | [Conditional Rendering Lab](https://github.com/SEI-R-11-8/u2_lab_conditional_rendering) | [Kanye useEffect Lab](https://github.com/SEI-R-11-8/u2_lab_kanye_useEffect) | [RAWG Router Walkthrough](https://generalassembly.zoom.us/rec/share/p7sDZLwkf8nOVUndk8F5ARqkuO0Yl-IbRmlv0uV9P-mhRH2fNqS7xfG-QyAA55DD.wT8BLnnPuwIvJTR8) | [Express Controllers](https://github.com/SEI-R-11-8/u2_lesson_express_controllers) | [Mongoose Express](https://github.com/SEI-R-11-8/u2_lab_mongoose_express) | [Full Stackathon](https://github.com/SEI-R-11-8/u2_full_stackathon) |
+  | [React Calculator Homework](https://github.com/SEI-R-11-8/u2_hw_react_hooks_calculator) | []() | Passcode: `*7$UGZ0i` | [Express Fruits Homework](https://github.com/SEI-R-11-8/u2_hw_express_fruits) | [Mongoose Plants](https://github.com/SEI-R-11-8/u2_hw_mongoose_plants) | []() |
   
   </p></details></li>
 
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
-  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 |
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Week 5+ |
   |:---:|:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/XZ8_1Iu4Rx8uS6RcxR1L74eWNLmH7yxozv8gJ62CSIZ10N-4vhu8R7qdU2M57QAi.sMf5x3q5Dk7oVMz1) | [Recording](https://generalassembly.zoom.us/rec/share/kkxzSLI4SzioSRQfbSO49fzubo6o3GYQ6A_33bWO69GzMWDm9m65h3XtupIt6_Tn.k-BeCNe6IsH7qtE3) | [Recording](https://generalassembly.zoom.us/rec/share/QUBwZFPBnw1rI84mkQPOIUCWyCIKjdUObHuedcdE4i3seH0ZrRMIdtGPd5DyNG8_.WXBSFuKv_b4rFghE) | [Recording](https://generalassembly.zoom.us/rec/share/lYw3yWvj25AJw21-ecmK_UwmKCHpNN65w7JROPI9UIUpZaJGaLMHRTK-8sxL5KIz.tA6sYecle9ungt08) | [Recording](https://generalassembly.zoom.us/rec/share/SbgJOxy-2wpV6j-KAgat4n7411TZ-dWy_QlsrRDhM4DefFSHhyGReVngxCK0oMxL.JNV9v5PaNVM8Kcm9) | [Recording](https://generalassembly.zoom.us/rec/share/Hwy6EZ1ah8s40S4JFMYjNHdMDfwO-BdZf9jHnLTfb9zc367HitoyamvHrPE0OIYm.BIyYaorwcOq_PXA-) |
   | Passcode: `B4qKFU7$` | Passcode: `B9Y$o8Y9` | Passcode: `bhF4&#d3` | Passcode: `5+K?YwE$` | Passcode: `49c@AK+K` | Passcode: `+g3*^jrr` |
@@ -277,7 +276,7 @@ ___
 
   <li><details><summary>Class Recordings - Group 2</summary><p>
 
-  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 |
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Week 5+ |
   |:---:|:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/SrwxHzMLoRiPq-C_fqndATwQhwAPmTstSSpK-LUiB0bcyM4JqOIwluEmxjOu5zed.-E-Z15wUvIJtJhZm) | [Recording](https://generalassembly.zoom.us/rec/share/I6eNygX5t1HckOdXs9MBj7wYhwvC3xWZ9Bw5ukyhAo6KORjJ-Tyb85g3sLmBrJz4.bG5f8ia5QwhIdec-) | [Recording](https://generalassembly.zoom.us/rec/share/jbRYohkJXOqB2KUZIANNQLW53DekiKmfQfcW5SbvxtW7venrL7uvYuPA3_lBjhSs.fuTO0Nyn-dSjtDNr) | [Recording](https://generalassembly.zoom.us/rec/share/rvCvzNNwOAr7WCLf7NwtcsIzxxQHV9RF2vkUP_-bOzxUFuMQEyjddHCFRI5QgQxu.XPvekrXegzyjElch) | [Recording](https://generalassembly.zoom.us/rec/share/mJup5pANr1w_tVOlnxpR-qqI4WZoetnSYH3v9_VVrOCaSTGpNqXMcAIy1H7xhTUu.Oauy_IN7naDUXgoL) | [Recording](https://generalassembly.zoom.us/rec/share/KI4_p1DpgaSahMHXZxv8RaZJZ3mnLA9kTfMoFVHlj3vxUsYf23yPkQdzZojKdcGx.xzWRn1iEYwnskj8U) |
   | Passcode: `@oby3*1Z` | Passcode: `Fh0Vdg!A` | Passcode: `h6CNN1X+` | Passcode: `NZ+SS98v` | Passcode: `%as0D!.b` | Passcode: `D6FGqy@w` |
