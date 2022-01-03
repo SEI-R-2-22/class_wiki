@@ -307,7 +307,7 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
   | [React / MERN Review](https://github.com/SEI-R-11-8/u3_lab_react_review) | [Redux Intro](https://github.com/SEI-R-11-8/u3_lesson_redux_intro) | [Redux Middleware](https://github.com/SEI-R-11-8/u3_lesson_redux_middleware) | [Redux Lab](https://github.com/SEI-R-11-8/u3_react_redux_review_lab/blob/main/README.md) | [SQL Intro](https://github.com/SEI-R-11-8/u3_lesson_SQL_intro) | 
-  | [SQL Practice]() | [Redux Reducers](https://github.com/SEI-R-11-8/u3_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-11-8/u3_lab_redux_movies) | []() | [](https://github.com/SEI-R-11-8/u3_lab_SQL_practice) |  
+  | []() | [Redux Reducers](https://github.com/SEI-R-11-8/u3_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-11-8/u3_lab_redux_movies) | []() | [](https://github.com/SEI-R-11-8/u3_lab_SQL_practice) |  
   | []() | [Redux Action Types](https://github.com/SEI-R-11-8/u3_lesson_redux_actions_types) | []() | []() | [SQL Joins](https://github.com/SEI-R-11-8/u3_lesson_SQL_joins) | 
   | []() | [Mapping State And Props](https://github.com/SEI-R-11-8/u3_lesson_mapping_state_props) | []() | []() | []() | 
 | []() | [Redux Quiz](https://github.com/SEI-R-11-8/u3_hw_redux_quiz) | []() | []() | [SQL Joins Practice](https://github.com/SEI-R-11-8/u3_lab_SQL_joins_practice) | 
