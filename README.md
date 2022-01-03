@@ -297,7 +297,7 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
   
   <p>
-  Week 7 description...
+  In Week 7, we were introduced to React Redux as a new way to manage our state in React! We learned about Reducers, Actions, and Types. We also learned how to map our state and actions to props. We also learned how to use a middleware called thunk in conjunction with Redux. We were introduced to SQL databases and started to learn SQL commands to interact with our database. We also learned about the concept of SQL Joins.
   </p>
   
   <ul type="none">
@@ -306,7 +306,7 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
+  | [React / MERN Review](https://github.com/SEI-R-11-8/u3_lab_react_review) | []() | []() | []() | []() | 
   | []() | []() | []() | []() | []() |  
   | []() | []() | []() | []() | []() | 
   | []() | []() | []() | []() | []() | 
