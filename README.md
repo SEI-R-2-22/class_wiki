@@ -297,7 +297,7 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
   
   <p>
-  In Week 7, we are introduced to React Redux as a new way to manage our state in React! We will learn about Reducers, Actions, and Types, as well as how to map our state and actions to props. We will also learn how to use a middleware called thunk in conjunction with Redux. We will introduc SQL databases and start to learn SQL commands to interact with our database. Finally, we will learn about the concept of SQL Joins, as we move into Sequelize in the coming week.
+  In Week 7, we were introduced to React Redux as a new way to manage our state in React! We learned about Reducers, Actions, and Types. We also learned how to map our state and actions to props. We also learned how to use a middleware called thunk in conjunction with Redux. We were introduced to SQL databases and started to learn SQL commands to interact with our database. We also learned about the concept of SQL Joins.
   </p>
   
   <ul type="none">
