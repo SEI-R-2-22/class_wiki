@@ -306,12 +306,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [React / MERN Review](https://github.com/SEI-R-11-8/u3_lab_react_review) | [Redux Intro](https://github.com/SEI-R-11-8/u3_lesson_redux_intro) | [Redux Middleware](https://github.com/SEI-R-11-8/u3_lesson_redux_middleware) | [Redux Lab](https://github.com/SEI-R-11-8/u3_react_redux_review_lab/blob/main/README.md) | [SQL Intro](https://github.com/SEI-R-11-8/u3_lesson_SQL_intro) | 
-  | []() | [Redux Reducers](https://github.com/SEI-R-11-8/u3_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-11-8/u3_lab_redux_movies) | []() | [](https://github.com/SEI-R-11-8/u3_lab_SQL_practice) |  
+  | [MERN Review](https://github.com/SEI-R-11-8/u3_lab_react_review) | [Redux Intro](https://github.com/SEI-R-11-8/u3_lesson_redux_intro) | [Redux Middleware](https://github.com/SEI-R-11-8/u3_lesson_redux_middleware) | [Redux Travel Blog Lab/Homework](https://github.com/SEI-R-11-8/u3_react_redux_review_lab) | [SQL Intro](https://github.com/SEI-R-11-8/u3_lesson_SQL_intro) | 
+  | []() | [Redux Reducers](https://github.com/SEI-R-11-8/u3_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-11-8/u3_lab_redux_movies) | []() | [SQL Practice Lab](https://github.com/SEI-R-11-8/u3_lab_SQL_practice) |  
   | []() | [Redux Action Types](https://github.com/SEI-R-11-8/u3_lesson_redux_actions_types) | []() | []() | [SQL Joins](https://github.com/SEI-R-11-8/u3_lesson_SQL_joins) | 
-  | []() | [Mapping State And Props](https://github.com/SEI-R-11-8/u3_lesson_mapping_state_props) | []() | []() | [SQL Joins Practice](https://github.com/SEI-R-11-8/u3_lab_SQL_joins_practice) | 
-| []() | [Redux Quiz](https://github.com/SEI-R-11-8/u3_hw_redux_quiz) | []() | []() | [SQL Carmen SanDiego](https://github.com/SEI-R-11-8/u3_hw_carmen_sandiego) | 
-  | []() | []() | []() | []() | []() | 
+  | []() | [Mapping State & Actions to Props](https://github.com/SEI-R-11-8/u3_lesson_mapping_state_props) | []() | []() | [SQL Joins Practice Lab](https://github.com/SEI-R-11-8/u3_lab_SQL_joins_practice) | 
+| []() | [Redux Quiz](https://github.com/SEI-R-11-8/u3_hw_redux_quiz) | []() | []() | [Carmen SanDiego Homework](https://github.com/SEI-R-11-8/u3_hw_carmen_sandiego) | 
   
   </p></details></li>
 
@@ -320,8 +319,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/PHunud5sXMJcpsCVoQFrbO5RaYorahccofeGK8v1lSNlBprNBrWzDDH6TP1bmM8.H7sHG7zy6M6SuHsX) | [Recording]() | [Recording]() | [Recording]() |
+  |  | Passcode: `K9DNq#FA` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -329,8 +328,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/smV27-qLrjcnlZ5A0fLUDeat9QoXGru4-zd31KtMu1MsPyZogRZVfUtWLvIMsP2s.mC39c0-XdLdbYvPx) | [Recording]() | [Recording]() | [Recording]() |
+  |  | Passcode: `xLwk3XU+` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
