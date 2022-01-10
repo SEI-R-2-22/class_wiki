@@ -319,8 +319,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/PHunud5sXMJcpsCVoQFrbO5RaYorahccofeGK8v1lSNlBprNBrWzDDH6TP1bmM8.H7sHG7zy6M6SuHsX) | [Recording](https://generalassembly.zoom.us/rec/share/LzNzcgqWCSngpraWWLhtedtYvMniEr9owGnQZgHJc1zqFGyUdCc09StAdxd1JWJT.Mg4T7cxGDDM1fgHp) | [Recording]() | [Recording]() |
-  |  | Passcode: `K9DNq#FA` | Passcode: `p&aa0RzY` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/PHunud5sXMJcpsCVoQFrbO5RaYorahccofeGK8v1lSNlBprNBrWzDDH6TP1bmM8.H7sHG7zy6M6SuHsX) | [Recording](https://generalassembly.zoom.us/rec/share/LzNzcgqWCSngpraWWLhtedtYvMniEr9owGnQZgHJc1zqFGyUdCc09StAdxd1JWJT.Mg4T7cxGDDM1fgHp) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/w-2onLxfbKIdnyzd7r8oySuQuHNId4UouacnwoFtYFtSNuKvQYDb_DPWiuoiq7iW.JHnAg1wntt4MaZ_x) |
+  |  | Passcode: `K9DNq#FA` | Passcode: `p&aa0RzY` |  | Passcode: `e16!MADm` |
 
   </p></details></li>
 
@@ -328,8 +328,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/smV27-qLrjcnlZ5A0fLUDeat9QoXGru4-zd31KtMu1MsPyZogRZVfUtWLvIMsP2s.mC39c0-XdLdbYvPx) | [Recording](https://generalassembly.zoom.us/rec/share/d5QJCC9rT2v9BW6VhPbRc4YVeNTfIix0FVm0IjJZm4Uu6UKOTijmYiHg9-cu0WMK.p2Od1gPUDEkO56eS) | [Recording]() | [Recording]() |
-  |  | Passcode: `xLwk3XU+` | Passcode: `MKV=BP1M` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/smV27-qLrjcnlZ5A0fLUDeat9QoXGru4-zd31KtMu1MsPyZogRZVfUtWLvIMsP2s.mC39c0-XdLdbYvPx) | [Recording](https://generalassembly.zoom.us/rec/share/d5QJCC9rT2v9BW6VhPbRc4YVeNTfIix0FVm0IjJZm4Uu6UKOTijmYiHg9-cu0WMK.p2Od1gPUDEkO56eS) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/TjZnRlRd8XohSVaHRCGodwEaT78JECzZnAcab6VG9uqMNckyN5yIJuO5czhBv07-._Lx6mNS7qUAErG6j) |
+  |  | Passcode: `xLwk3XU+` | Passcode: `MKV=BP1M` |  | Passcode: `2rTb!0GY` |
 
   </p></details></li>
   
@@ -341,7 +341,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
   
   <p>
-  In Week 8, we learned all about Sequelize and how it can interpret for our SQL database and our backend Node servers. We learned how to make queries, migrations, and associations. We also learned all about how to integrate user authentication in our apps.
+  In Week 8, we learned all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learned how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learned all about how to integrate <b>user authentication</b> in our apps.
   </p>
   
   <ul type="none">
@@ -350,11 +350,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Database Design](https://github.com/SEI-R-11-8/u3_lesson_database_design) | [Sequelize Migrations]() | [Express Sequelize Lab]() | [JWT Auth]() | [Project 3]() | 
-  | [Intro to Sequelize](https://github.com/SEI-R-11-8/u3_lesson_sequelize_intro) | [Sequelize Migrations Lab]() | [Sequelize API from Scratch]() | [Sequelize Auth]() | |  
-  | [Sequelize Queries](https://github.com/SEI-R-11-8/u3_lesson_sequelize_queries) | [Sequelize Associations]() | [Auth Study Homework]() | [React Auth Lab]() | | 
-  | [Sequelize Querying Lab](https://github.com/SEI-R-11-8/u3_lab_sequelize_querying) | [Sequelize Associations Lab]() | []() | [Sequelize Complex Associations Homework]() | | 
-  | [Sequelize Practice Homework](https://github.com/SEI-R-11-8/u3_hw_sequelize_practice) | [Associations & Migrations Homework]() | | | | 
+  | [Database Design](https://github.com/SEI-R-11-8/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-11-8/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-11-8/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-11-8/u3_lesson_JWT_auth) | [Project 3 Prompt](https://github.com/SEI-R-11-8/u3_project_prompt) | 
+  | [Intro to Sequelize](https://github.com/SEI-R-11-8/u3_lesson_sequelize_intro) | [Sequelize Migrations Lab](https://github.com/SEI-R-11-8/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / Homework](https://github.com/SEI-R-11-8/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-11-8/u3_lesson_sequelize_auth) |  |  
+  | [Sequelize Queries](https://github.com/SEI-R-11-8/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-11-8/u3_lesson_sequelize_associations) | [JWT Auth Study Homework](https://github.com/SEI-R-11-8/u3_hw_jwt_auth_study) | [React Auth](https://github.com/SEI-R-11-8/u3_lesson_react_auth) |  | 
+  | [Sequelize Querying Lab](https://github.com/SEI-R-11-8/u3_lab_sequelize_querying) | [Sequelize Associations Lab](https://github.com/SEI-R-11-8/u3_lab_sequelize_associations_exercise) |  | [Sequelize Complex Associations Homework](https://github.com/SEI-R-7-26/u3_lesson_sequelize_complex_associations) |  | 
+  | [Sequelize Practice Homework](https://github.com/SEI-R-11-8/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-11-8/u3_hw_sequelize_associations_and_migrations) |  |  |  | 
   
   </p></details></li>
 
