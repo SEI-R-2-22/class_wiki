@@ -350,12 +350,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() |  
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Database Design](https://github.com/SEI-R-11-8/u3_lesson_database_design) | [Sequelize Migrations]() | [Express Sequelize Lab]() | [JWT Auth]() | [Project 3]() | 
+  | [Intro to Sequelize](https://github.com/SEI-R-11-8/u3_lesson_sequelize_intro) | [Sequelize Migrations Lab]() | [Sequelize API from Scratch]() | [Sequelize Auth]() | |  
+  | [Sequelize Queries](https://github.com/SEI-R-11-8/u3_lesson_sequelize_queries) | [Sequelize Associations]() | [Auth Study Homework]() | [React Auth Lab]() | | 
+  | [Sequelize Querying Lab](https://github.com/SEI-R-11-8/u3_lab_sequelize_querying) | [Sequelize Associations Lab]() | []() | [Sequelize Complex Associations Homework]() | | 
+  | [Sequelize Practice Homework](https://github.com/SEI-R-11-8/u3_hw_sequelize_practice) | [Associations & Migrations Homework]() | | | | 
   
   </p></details></li>
 
