@@ -391,7 +391,7 @@ ___
   <li><details><summary><strong>Week 10</strong></summary><p>
   
   <p>
-  Week 10 description...
+  In Week 10, we learned a new framework called Vue.js and how it is set up differently than React and other libraries we've used. We learned how to use State Methods, Directives, Events, and Emitters in Vue. We also learned how to use Vue with APIs, and how to use Vue Router to direct our page. Later in the week, we were introduced to Python and learned about functions, control flow, loops, and dictionaries.
   </p>
   
   <ul type="none">
@@ -404,7 +404,7 @@ ___
   | [Vue Components & Props](https://github.com/SEI-R-11-8/u4_lesson_vue_components_props) | [Vue Rock, Paper, Scissor Lab/Homework](https://github.com/SEI-R-11-8/u4_lab_vue_rock_paper_scissor) | [Vue Messenger Homework](https://github.com/SEI-R-11-8/u4_hw_vue_messenger) | [Vue RAWG Lab/Homework](https://github.com/SEI-R-11-8/u4_hw_vue_rawg) | [Python Functions]() | 
   | [Vue State Methods](https://github.com/SEI-R-11-8/u4_lesson_vue_state) | [Vue APIs](https://github.com/SEI-R-11-8/u4_lesson_vue_API) | []() | []() | [Python Control Flow]() | 
   | [Vue Directives](https://github.com/SEI-R-11-8/u4_lesson_vue_directives) | []() | []() | []() | [Python Lists, Loops & Comprehension]() | 
-  | [Vue Quiz]() | []() | []() | []() | [Python Dictionaries]() | 
+  | [Vue Quiz](https://forms.gle/tHxRjWLdUFuV21zA6) | []() | []() | []() | [Python Dictionaries]() | 
   | []() | []() | []() | []() | [Python CYOA Homework]() | 
   
   </p></details></li>
