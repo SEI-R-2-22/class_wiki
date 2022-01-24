@@ -401,7 +401,7 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
   | [Vue Intro](https://github.com/SEI-R-11-8/u4_lesson_vue_introduction) | [Vue Events & Emitters](https://github.com/SEI-R-11-8/u4_lesson_vue_events_emitters) | [Vue API Lab](https://github.com/SEI-R-11-8/u4_lab_vue_API) | [Vue Router](https://github.com/SEI-R-11-8/u4_lesson_vue_router) | [Python Intro](https://github.com/SEI-R-11-8/u4_lesson_python_intro) | 
-  | [Vue Components & Props](https://github.com/SEI-R-11-8/u4_lesson_vue_components_props) | [Vue Rock, Paper, Scissor Lab/Homework](https://github.com/SEI-R-11-8/u4_lab_vue_rock_paper_scissor) | [Vue Messenger Homework](https://github.com/SEI-R-11-8/u4_hw_vue_messenger) | [Vue RAWG Lab/Homework](https://github.com/SEI-R-11-8/u4_hw_vue_rawg) | [Python Functions]() | 
+  | [Vue Components & Props](https://github.com/SEI-R-11-8/u4_lesson_vue_components_props) | [Vue Rock, Paper, Scissor Lab/Homework](https://github.com/SEI-R-11-8/u4_lab_vue_rock_paper_scissor) | [Vue Messenger Homework](https://github.com/SEI-R-11-8/u4_hw_vue_messenger) | [Vue RAWG Lab/Homework](https://github.com/SEI-R-11-8/u4_hw_vue_rawg) | [Python Functions](https://github.com/SEI-R-11-8/u4_lesson_python_functions) | 
   | [Vue State Methods](https://github.com/SEI-R-11-8/u4_lesson_vue_state) | [Vue APIs](https://github.com/SEI-R-11-8/u4_lesson_vue_API) | []() | []() | [Python Control Flow]() | 
   | [Vue Directives](https://github.com/SEI-R-11-8/u4_lesson_vue_directives) | []() | []() | []() | [Python Lists, Loops & Comprehension]() | 
   | [Vue Quiz](https://forms.gle/tHxRjWLdUFuV21zA6) | []() | []() | []() | [Python Dictionaries]() | 
