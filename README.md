@@ -405,7 +405,7 @@ ___
   | [Vue State Methods](https://github.com/SEI-R-11-8/u4_lesson_vue_state) | [Vue APIs](https://github.com/SEI-R-11-8/u4_lesson_vue_API) | []() | []() | [Python Control Flow](https://github.com/SEI-R-11-8/u4_lesson_python_control_flow) | 
   | [Vue Directives](https://github.com/SEI-R-11-8/u4_lesson_vue_directives) | []() | []() | []() | [Python Lists, Loops & Comprehension](https://github.com/SEI-R-11-8/u4_lesson_python_lists_loops) | 
   | [Vue Quiz](https://forms.gle/tHxRjWLdUFuV21zA6) | []() | []() | []() | [Python Dictionaries](https://github.com/SEI-R-11-8/u4_lesson_python_dictionaries) | 
-  | []() | []() | []() | []() | [Python CYOA Homework]() | 
+  | []() | []() | []() | []() | [Python CYOA Homework](https://github.com/SEI-R-11-8/u4_hw_python_adventure) | 
   
   </p></details></li>
 
