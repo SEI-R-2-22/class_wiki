@@ -449,7 +449,7 @@ ___
   | [Python Tuples](https://github.com/SEI-R-11-8/u4_lesson_python_tuples) | [Django Views](https://github.com/SEI-R-11-8/u4_django_views) | [Django REST API Lab/HW](https://github.com/SEI-R-11-8/django_rest_lab) | [Hackathon]() | [Project 4 Prompt]() |  
   | [Tuple Exercise Lab](https://github.com/SEI-R-11-8/u4_lab_python_tuple_exercise) | [Nostal-Dja Hw/Lab ](https://github.com/SEI-R-11-8/u4_nostalDja_lab) | []() | []() | []() | 
   | [Python OOP](https://github.com/SEI-R-11-8/u4_lesson_python_oop) | [Django Tunr Solution](https://github.com/SEI-R-11-8/django_tunr_solution) | []() | []() | []() | 
-  | [CSV Parser Lab](https://github.com/SEI-R-11-8/u4_hw_python_csv_parser) | []() | []() | []() | []() | 
+  | [CSV Parser Lab](https://github.com/SEI-R-11-8/u4_lab_python_CSV_parser) | []() | []() | []() | []() | 
   | [Python Smash Bros. Homework](https://github.com/SEI-R-11-8/u4_hw_python_smash_bros) | []() | []() | []() | []() | 
   
   </p></details></li>
