@@ -436,7 +436,7 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
   
   <p>
-  Week 11 description...
+  In Week 11, we continued with Python by learning about tuples and OOP in Python. We then got a quick intro to Django and how to set up Auth in Django. At the end of the week, we got to participate in a Hackathon!
   </p>
   
   <ul type="none">
