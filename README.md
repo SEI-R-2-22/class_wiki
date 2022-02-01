@@ -423,8 +423,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/Pw6TFFqT7wM03qNYs8kcmbwtPexGz6IzVApKn8P-LSuHXoqsUw3WifUOYiI37FKI.55fD-Dm46X5nPP2y) | [Recording](https://generalassembly.zoom.us/rec/share/FdVhuJVdarTb_o1j7UXMo16vN2TxVEtC1h-H_50nEFnfE27VXX6NzHLVGdWCI0AO.-087_yo17nDIpUFD) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/WOCN2UjSUO_ZZVv64eposExbtWR6SbhWN08wzJsY_x8guzD4s5l36WIWgxenXSzP.Uz6QWzovQM8ymuuA) | No Recording |
-  | Passcode: `eZY#0+jQ` | Passcode: `?M%bCch3` |  | Passcode: `v4@8Okd?` |  |
+  | [Recording](https://generalassembly.zoom.us/rec/share/Pw6TFFqT7wM03qNYs8kcmbwtPexGz6IzVApKn8P-LSuHXoqsUw3WifUOYiI37FKI.55fD-Dm46X5nPP2y) | [Recording](https://generalassembly.zoom.us/rec/share/FdVhuJVdarTb_o1j7UXMo16vN2TxVEtC1h-H_50nEFnfE27VXX6NzHLVGdWCI0AO.-087_yo17nDIpUFD) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/WOCN2UjSUO_ZZVv64eposExbtWR6SbhWN08wzJsY_x8guzD4s5l36WIWgxenXSzP.Uz6QWzovQM8ymuuA) | [Recording](https://generalassembly.zoom.us/rec/share/owd-6tZKkNhCPNrxNYm5sCmwCG6-27AgV5lcy2sSAYPr0ZXkVqyrjKkl8DwEJJIq.mHeSwmuoHXmxQw8H) |
+  | Passcode: `eZY#0+jQ` | Passcode: `?M%bCch3` |  | Passcode: `v4@8Okd?` | Passcode: `Vr&9P1S+` |
 
   </p></details></li>
   
