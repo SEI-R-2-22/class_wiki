@@ -459,8 +459,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/74RNq1Xl-UKhQvuLEifRJL-2q7VCyYGhXRWjOSHLW85_8NQaYBtMnDpLHMF3fwMb.glV4X_1f68nTmAaQ) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `W2yQ4z$+` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/74RNq1Xl-UKhQvuLEifRJL-2q7VCyYGhXRWjOSHLW85_8NQaYBtMnDpLHMF3fwMb.glV4X_1f68nTmAaQ) | [Recording](https://generalassembly.zoom.us/rec/share/0VMGJZGYcPi_whJK8hDURmfou7zv8MYmBrz7Be31cCZOfOMZEroOGF5niMCSzVVA.gZtwU6zaGSUyR0KL) | [Recording](https://generalassembly.zoom.us/rec/share/QVCzLfvPfCcHnz5j5I57ukmw-dco-lmL5YHurNa6ElOHj7b0Hxx4WKb_HspjrVPW.sKMRwcqYrwoC_N_O) | No Recording | No Recording |
+  | Passcode: `W2yQ4z$+` | Passcode: `.qK485&n` | Passcode: `V#6ti3U#` |  |  |
 
   </p></details></li>
 
@@ -468,8 +468,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/_5xt_l9g9Rqt-3zxazq3EzXIGJN5ZG_vmscJZIbmDt67lAfqnsSM_6v_SISL-jAn.ATh1Ge2k2QwhGVTL) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `u=52YHQ?` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/_5xt_l9g9Rqt-3zxazq3EzXIGJN5ZG_vmscJZIbmDt67lAfqnsSM_6v_SISL-jAn.ATh1Ge2k2QwhGVTL) | [Recording](https://generalassembly.zoom.us/rec/share/UuEJXH_q86j4I3U2ZnJKgddojoXKvQSCBayxlS8O_QwFYRaRViTs5R9F6sT6VJf6.ykkQNqVX4R5ataQ8) | [Recording](https://generalassembly.zoom.us/rec/share/BZW7Quhi84qUtaxidUs6zJaaDQ6t98RK-ubjKKSxPiYmrtq-D68UxK8cUkwA9Fz2.ukgct-DanYq7qOmb) | No Recording | No Recording |
+  | Passcode: `u=52YHQ?` | Passcode: `6N#WN.B^` | Passcode: `hw+e9Qb2` |  |  |
 
   </p></details></li>
   
