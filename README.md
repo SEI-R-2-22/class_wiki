@@ -26,6 +26,8 @@ ____
 
 <li><details><summary><strong>Group 1</strong></summary>
 
+____
+
 <div align="center">
   <img width="200px" src="https://i.imgur.com/W0E8Vel.png" alt="ben">
   <br><br>
@@ -35,6 +37,8 @@ ____
   <br><br>
 </div>
 
+____
+
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
   <br><br>
@@ -43,6 +47,8 @@ ____
   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
   <br><br>
 </div>
+
+____
 
 </p></details></li>
 
@@ -97,6 +103,8 @@ ____
 <li><details><summary><strong>Teaching Assistants</strong></summary><p>
 
 <p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
+
+<br>
   
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
@@ -121,6 +129,8 @@ ____
 <li><details><summary><strong>Student Success</strong></summary><p>
 
 <p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
+
+<br>
   
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
@@ -145,6 +155,8 @@ ____
 <li><details><summary><strong>Outcomes Team</strong></summary><p>
 
 <p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
+
+<br>
   
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
