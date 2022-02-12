@@ -14,11 +14,11 @@ Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R
 <!-- Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
 
 ____
-<details><summary><strong>GA Team</strong></summary>
+<details><summary><strong>GA Team</strong></summary><p>
 
 <ul type="none">
 
-<li><details><summary><strong>Instructional Team</strong></summary><p>
+<li><details><summary><strong>Instructional Team</strong></summary>
 
 <p>All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</p>
 
@@ -47,6 +47,28 @@ ____
 </p></details></li>
 
 <li><details><summary><strong>Group 2</strong></summary>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
+
+</p></details></li>
+
+<li><details><summary><strong>Group 3</strong></summary>
 
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
