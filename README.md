@@ -22,6 +22,8 @@ ____
 
 <p>All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</p>
 
+<ul type="none">
+
 <li><details><summary><strong>Group 1</strong></summary>
 
 <div align="center">
@@ -42,7 +44,10 @@ ____
 
 </p></details></li>
 
+</ul>
+
 </p></details></li>
+
 
 <li><details><summary><strong>Teaching Assistants</strong> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</summary><p>
   
