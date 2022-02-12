@@ -7,11 +7,97 @@
 ___
 Welcome to the SEI-R-2-22 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
 
+Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R-2-22/template_pull_request).
+
 <!-- Daily Javascript Challenges can be found [here](https://github.com/SEI-R-2-22/daily_js_challenges). -->
 
 <!-- Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
 
-___
+____
+<details><summary><strong>GA Team</strong></summary><p>
+  
+This section will introduce you to the <i>entire</i> General Assembly team for this immersive. The teams are broken down into <b>four sections</b>:
+- <i>Instructional Team</i> - All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.
+- <i>Teaching Assistants</i> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.
+- <i>Student Success</i> - This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.
+- <i>Outcomes Team</i> - This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.
+  
+</p>
+
+<ul type="none">
+
+<li><details><summary><strong>Instructional Team</strong></summary><p>
+  
+<div align="center">
+  <img src="https://i.imgur.com/W0E8Vel.png" alt="ben">
+  <p>Hey everyone, my name is Ben Manning and I’ll be the Lead Instructor for Group 1 in this course. I’ll be leading the majority of your lessons and guiding you throughout this course.</p>
+  <p>I’m an engineer specializing in full stack development and working with small start ups. I have worked with a wide range of technologies and teams in my career and look forward to sharing those experiences. I’m excited to be working with y’all throughout the next 3 months!</p>
+  <span><a href="https://github.com/ben-manning">GitHub</a> | <a href="https://www.linkedin.com/in/manningben/">LinkedIn</a></span>
+</div>
+  
+</p></details></li>
+
+<li><details><summary><strong>Teaching Assistants</strong></summary><p>
+  
+<ul>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-2-22/template_pull_request">PR Guidelines</a>.</li>
+  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
+  <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
+  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
+    <ul>
+      <li>Deliverables assigned on Fridays <b>do not</b> have a re-submit <i>or</i> late submit grace period.</li>
+      <li>Deliverables submitted <i>after</i> the grace period <b>will not</b> be graded or accepted and will be marked as "Incomplete".</li>
+    </ul>
+  </li>
+</ul>
+  
+</p></details></li>
+
+<li><details><summary><strong>Student Success</strong></summary><p>
+  
+<ul>
+  <li>Meet Project Requirements.
+    <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
+  </li>
+  <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.).</li>
+  <li>Adhere to attendance policy.
+    <ul>
+      <li>Students are allowed <b>3</b> absences over the <i>entire</i> course.</li>
+      <li><b>3</b> tardies or early departures equals <b>1</b> absence.</li>
+      <li>Tardy policy <i>includes</i> Outcomes participation.</li>
+    </ul>
+  </li>
+</ul>
+  
+</p></details></li>
+
+<li><details><summary><strong>Outcomes Team</strong></summary><p>
+  
+<ul>
+  <li>Plagiarism is a serious offense and grounds for immediate withdrawal.</li>
+  <li>You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.</li>
+  <li>Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.</li>
+</ul>
+  
+</p></details></li>
+
+<!-- <li><details><summary><strong>Observed Holidays</strong></summary><p>
+
+<p>
+The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
+</p>
+  
+| Holiday | Dates |
+|:---:|:---:|
+| Easter | November 24th, 2021 - November 26th, 2021 |
+| Christmas/New Year's | December 24th, 2021 - December 31st, 2021 |
+| Martin Luther King Jr. Day | January 17th, 2022 |
+  
+</p></details></li> -->
+  
+</ul></details>
+
+____
 <details><summary><strong>Class Policies</strong></summary><p>
   
 Below, you will find Class Policies and Requirements as laid out in Orientation and conveyed by the Instructional Team.  We compile them here for your reference and review.
