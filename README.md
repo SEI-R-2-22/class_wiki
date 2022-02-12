@@ -116,8 +116,6 @@ ____
 
 <p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
 
-<br>
-
 ____
   
 <div align="center">
@@ -148,8 +146,6 @@ ____
 
 <p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
 
-<br>
-
 ____
   
 <div align="center">
@@ -179,8 +175,6 @@ ____
 <li><details><summary><strong>Outcomes Team</strong></summary><p>
 
 <p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
-
-<br>
 
 ____
   
