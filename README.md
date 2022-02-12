@@ -20,6 +20,8 @@ ____
 
 <li><details><summary><strong>Instructional Team</strong></summary><p>
 
+<br>
+
 <p>All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</p>
 
 <ul type="none">
@@ -94,47 +96,81 @@ ____
 
 </p></details></li>
 
-<li><details><summary><strong>Teaching Assistants</strong> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</summary><p>
+<li><details><summary><strong>Teaching Assistants</strong></summary><p>
+
+<br>
+
+<p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
   
-<ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-2-22/template_pull_request">PR Guidelines</a>.</li>
-  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
-  <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
-  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
-    <ul>
-      <li>Deliverables assigned on Fridays <b>do not</b> have a re-submit <i>or</i> late submit grace period.</li>
-      <li>Deliverables submitted <i>after</i> the grace period <b>will not</b> be graded or accepted and will be marked as "Incomplete".</li>
-    </ul>
-  </li>
-</ul>
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
   
 </p></details></li>
 
-<li><details><summary><strong>Student Success</strong> - This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</summary><p>
+<li><details><summary><strong>Student Success</strong></summary><p>
+
+<br>
+
+<p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
   
-<ul>
-  <li>Meet Project Requirements.
-    <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
-  </li>
-  <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.).</li>
-  <li>Adhere to attendance policy.
-    <ul>
-      <li>Students are allowed <b>3</b> absences over the <i>entire</i> course.</li>
-      <li><b>3</b> tardies or early departures equals <b>1</b> absence.</li>
-      <li>Tardy policy <i>includes</i> Outcomes participation.</li>
-    </ul>
-  </li>
-</ul>
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
   
 </p></details></li>
 
-<li><details><summary><strong>Outcomes Team</strong> - This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</summary><p>
+<li><details><summary><strong>Outcomes Team</strong></summary><p>
+
+<br>
+
+<p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
   
-<ul>
-  <li>Plagiarism is a serious offense and grounds for immediate withdrawal.</li>
-  <li>You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.</li>
-  <li>Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.</li>
-</ul>
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
   
 </p></details></li>
 
