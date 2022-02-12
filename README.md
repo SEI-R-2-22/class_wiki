@@ -18,7 +18,7 @@ ____
 
 <ul type="none">
 
-<li><details><summary><strong>Instructional Team</strong></summary>
+<li><details><summary><strong>Instructional Team</strong></summary><p>
 
 <p>All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</p>
 
