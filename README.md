@@ -18,16 +18,30 @@ ____
 
 <ul type="none">
 
-<li><details><summary><strong>Instructional Team</strong> - All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</summary><p>
-  
+<li><details><summary><strong>Instructional Team</strong></summary>
+
+<p>All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</p>
+
+<li><details><summary><strong>Group 1</strong></summary>
+
 <div align="center">
-  <img src="https://i.imgur.com/W0E8Vel.png" alt="ben">
+  <img width="200px" src="https://i.imgur.com/W0E8Vel.png" alt="ben">
   <br>
-  <p>Hey everyone, my name is Ben Manning and I’ll be the Lead Instructor for Group 1 in this course. I’ll be leading the majority of your lessons and guiding you throughout this course.</p>
+  <p>Hey everyone, my name is Ben Manning and I’ll be the <b>Lead Instructor</b> for Group 1 in this course. I’ll be leading the majority of your lessons and guiding you throughout this course.</p>
   <p>I’m an engineer specializing in full stack development and working with small start ups. I have worked with a wide range of technologies and teams in my career and look forward to sharing those experiences. I’m excited to be working with y’all throughout the next 3 months!</p>
   <span><a href="https://github.com/ben-manning">GitHub</a> | <a href="https://www.linkedin.com/in/manningben/">LinkedIn</a></span>
 </div>
-  
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+</div>
+
+</p></details></li>
+
 </p></details></li>
 
 <li><details><summary><strong>Teaching Assistants</strong> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</summary><p>
