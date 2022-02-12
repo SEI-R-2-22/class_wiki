@@ -14,22 +14,15 @@ Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R
 <!-- Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
 
 ____
-<details><summary><strong>GA Team</strong></summary><p>
-  
-This section will introduce you to the <i>entire</i> General Assembly team for this immersive. The teams are broken down into <b>four sections</b>:
-- <i>Instructional Team</i> - All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.
-- <i>Teaching Assistants</i> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.
-- <i>Student Success</i> - This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.
-- <i>Outcomes Team</i> - This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.
-  
-</p>
+<details><summary><strong>GA Team</strong></summary>
 
 <ul type="none">
 
-<li><details><summary><strong>Instructional Team</strong></summary><p>
+<li><details><summary><strong>Instructional Team</strong> - All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</summary><p>
   
 <div align="center">
   <img src="https://i.imgur.com/W0E8Vel.png" alt="ben">
+  <br>
   <p>Hey everyone, my name is Ben Manning and I’ll be the Lead Instructor for Group 1 in this course. I’ll be leading the majority of your lessons and guiding you throughout this course.</p>
   <p>I’m an engineer specializing in full stack development and working with small start ups. I have worked with a wide range of technologies and teams in my career and look forward to sharing those experiences. I’m excited to be working with y’all throughout the next 3 months!</p>
   <span><a href="https://github.com/ben-manning">GitHub</a> | <a href="https://www.linkedin.com/in/manningben/">LinkedIn</a></span>
@@ -37,7 +30,7 @@ This section will introduce you to the <i>entire</i> General Assembly team for t
   
 </p></details></li>
 
-<li><details><summary><strong>Teaching Assistants</strong></summary><p>
+<li><details><summary><strong>Teaching Assistants</strong> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</summary><p>
   
 <ul>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-2-22/template_pull_request">PR Guidelines</a>.</li>
@@ -53,7 +46,7 @@ This section will introduce you to the <i>entire</i> General Assembly team for t
   
 </p></details></li>
 
-<li><details><summary><strong>Student Success</strong></summary><p>
+<li><details><summary><strong>Student Success</strong> - This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</summary><p>
   
 <ul>
   <li>Meet Project Requirements.
@@ -71,7 +64,7 @@ This section will introduce you to the <i>entire</i> General Assembly team for t
   
 </p></details></li>
 
-<li><details><summary><strong>Outcomes Team</strong></summary><p>
+<li><details><summary><strong>Outcomes Team</strong> - This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</summary><p>
   
 <ul>
   <li>Plagiarism is a serious offense and grounds for immediate withdrawal.</li>
