@@ -46,10 +46,33 @@ ____
 
 </p></details></li>
 
-</ul>
+</p></details></li>
+
+<li><details><summary><strong>Group 2</strong></summary>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <br><br>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br><br>
+</div>
 
 </p></details></li>
 
+</ul>
+
+</p></details></li>
 
 <li><details><summary><strong>Teaching Assistants</strong> - TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</summary><p>
   
