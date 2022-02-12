@@ -46,10 +46,6 @@ ____
 
 </p></details></li>
 
-</ul>
-
-</p></details></li>
-
 <li><details><summary><strong>Group 2</strong></summary>
 
 <div align="center">
