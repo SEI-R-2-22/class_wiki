@@ -14,7 +14,7 @@ Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R
 <!-- Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
 
 ____
-<details><summary><strong>GA Team</strong></summary><p>
+<details><summary><strong>General Assembly Team</strong></summary><p>
 
 <ul type="none">
 
@@ -24,7 +24,7 @@ ____
 
 <ul type="none">
 
-<li><details><summary><strong>Group 1</strong></summary>
+<li><details><summary>Group 1</summary>
 
 ____
 
@@ -52,7 +52,7 @@ ____
 
 </p></details></li>
 
-<li><details><summary><strong>Group 2</strong></summary>
+<li><details><summary>Group 2</summary>
 
 ____
 
@@ -80,7 +80,7 @@ ____
 
 </p></details></li>
 
-<li><details><summary><strong>Group 3</strong></summary>
+<li><details><summary>Group 3</summary>
 
 ____
 
