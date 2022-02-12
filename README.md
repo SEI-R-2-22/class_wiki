@@ -34,7 +34,6 @@ ____
   
   <h3>Ben Manning</h3>
   
-  <br>
   <p>Hey everyone, my name is Ben Manning and I’ll be the <b>Lead Instructor</b> for Group 1 in this course. I’ll be leading the majority of your lessons and guiding you throughout this course.</p>
   <p>I’m an engineer specializing in full stack development and working with small start ups. I have worked with a wide range of technologies and teams in my career and look forward to sharing those experiences. I’m excited to be working with y’all throughout the next 3 months!</p>
   <span><a href="https://github.com/ben-manning">GitHub</a> | <a href="https://www.linkedin.com/in/manningben/">LinkedIn</a></span>
