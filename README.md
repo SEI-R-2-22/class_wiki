@@ -93,7 +93,7 @@ ____
   <h3>John Jacobs</h3>
   <h4>Lead Instructor</h4>
   <p>Hello! My name is John and I am one of the <b>Lead Instructors</b> for Group 3 of this Software Engineering Immersive. Michael Lackey and I will be leading lessons, grading your assignments, and managing the classroom environment.
-I have been with GA since January 2019 first as a students, then as Instructor Associate, and now as Instructor Lead. I love building personal projects and continuing to learn new technologies. ReactJS is my favorite tech and I actually enjoy the debugging process.</p>
+I have been with GA since January 2019 first as a student, then as Instructor Associate, and now as Instructor Lead. I love building personal projects and continuing to learn new technologies. ReactJS is my favorite tech and I actually enjoy the debugging process.</p>
   <span><a href="https://github.com/GopherEverett">GitHub</a> | <a href="https://www.linkedin.com/in/john-a-jacobs/">LinkedIn</a> | <a href="https://www.johnandrewjacobs.com/">My Personal Website</a></span>
   <br>
 </div>
