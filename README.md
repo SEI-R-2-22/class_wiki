@@ -348,20 +348,6 @@ ____
   
   <ul type="none">
 
-  <li><details><summary>Repos</summary><p>
-
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|
-  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installfest) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
-  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | []() | []() |
-  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | []() | []() |
-  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | []() | []() | []() |
-  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | []() | []() | []() |
-  |  | []() | []() | []() | []() |
-  |  | []() | []() | []() | []() |
-
-  </p></details></li>
-
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -400,10 +386,6 @@ ____
   In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript.
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -413,8 +395,8 @@ ____
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
-  </p></details></li>
+
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -460,10 +442,6 @@ ___
      In Week 4, we start the week by learning how to call on external data sources with <b>APIs</b>.  Then we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -474,7 +452,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   
-  </p></details></li>
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -514,10 +492,6 @@ ___
   In Week 5, we move into more complicated React Hooks like <b>useEffect</b> and <b>useReducer</b>.  We learn about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We are also introduced to <b>React Router</b> and get to see how it gives us powerful new tools to build our React Apps. Then we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -528,7 +502,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   
-  </p></details></li>
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -574,10 +548,6 @@ ___
   In Week 7, we are introduced to <b>React Redux</b> as a new way to manage our state in React! We learn about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learn how to map our state and actions to props. We also learn how to use a middleware called <b>thunk</b> in conjunction with Redux. We are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>.
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -588,7 +558,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   
-  </p></details></li>
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -628,10 +598,6 @@ ___
   In Week 8, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learn how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learn all about how to integrate <b>user authentication</b> in our apps.
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -642,7 +608,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   
-  </p></details></li>
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -688,10 +654,6 @@ ___
   In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -702,7 +664,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   
-  </p></details></li>
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -742,10 +704,6 @@ ___
   In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up Auth in Django. At the end of the week, we get to participate in a <b>Djangathon</b>!
   </p>
   
-  <ul type="none">
-
-  <li><details><summary>Repos</summary><p>
-  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -756,7 +714,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   
-  </p></details></li>
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
