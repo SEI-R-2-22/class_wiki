@@ -92,8 +92,8 @@ ____
   <img width="200px" src="https://i.imgur.com/rh0nUDn.png" alt="john">
   <h3>John Jacobs</h3>
   <h4>Lead Instructor</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <p>Hello! My name is John and I am one of the <b>Lead Instructors</b> for Group 3 of this Software Engineering Immersive. Michael Lackey and I will be leading lessons, grading your assignments, and managing the classroom environment.
+I have been with GA since January 2019 first as a students, then as Instructor Associate, and now as Instructor Lead. I love building personal projects and continuing to learn new technologies. ReactJS is my favorite tech and I actually enjoy the debugging process.</p>
   <span><a href="https://github.com/GopherEverett">GitHub</a> | <a href="https://www.linkedin.com/in/john-a-jacobs/">LinkedIn</a> | <a href="https://www.johnandrewjacobs.com/">My Personal Website</a></span>
   <br>
 </div>
@@ -123,7 +123,7 @@ ____
 <p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
 
 ____
-  
+
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="glenn">
   <h3>Glenn Brown</h3>
@@ -159,7 +159,7 @@ ____
 </div>
 
 ____
-  
+
 </p></details></li>
 
 <li><details><summary><strong>Student Success</strong></summary><p>
@@ -167,7 +167,7 @@ ____
 <p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
 
 ____
-  
+
 <div align="center">
   <img width="200px" src="https://i.imgur.com/RxiKXwx.png" alt="david">
   <h3>David Allison</h3>
@@ -191,7 +191,7 @@ ____
 </div>
 
 ____
-  
+
 </p></details></li>
 
 <li><details><summary><strong>Outcomes Team</strong></summary><p>
@@ -199,7 +199,7 @@ ____
 <p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
 
 ____
-  
+
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="brittany">
   <h3>Brittany Dawson</h3>
@@ -235,22 +235,22 @@ ____
 </div>
 
 ____
-  
+
 </p></details></li>
-  
+
 </ul></details>
 
 ____
 <details><summary><strong>Class Policies</strong></summary><p>
-  
+
 Below, you will find Class Policies and Requirements as laid out in Orientation and conveyed by the Instructional Team.  We compile them here for your reference and review.
-  
+
 </p>
 
 <ul type="none">
 
 <li><details><summary><strong>Code of Conduct</strong></summary><p>
-  
+
 <ul>
   <li>Foster a productive classroom environment.</li>
   <li>Treat others with respect and dignity.</li>
@@ -262,11 +262,11 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
   </li>
   <li><b>Zero tolerance for plagiarism and cheating.</b></li>
 </ul>
-  
+
 </p></details></li>
 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
-  
+
 <ul>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-2-22/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
@@ -278,11 +278,11 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
     </ul>
   </li>
 </ul>
-  
+
 </p></details></li>
 
 <li><details><summary><strong>Graduation Requirements</strong></summary><p>
-  
+
 <ul>
   <li>Meet Project Requirements.
     <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
@@ -296,17 +296,17 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
     </ul>
   </li>
 </ul>
-  
+
 </p></details></li>
 
 <li><details><summary><strong>A Note on Plagiarism</strong></summary><p>
-  
+
 <ul>
   <li>Plagiarism is a serious offense and grounds for immediate withdrawal.</li>
   <li>You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.</li>
   <li>Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.</li>
 </ul>
-  
+
 </p></details></li>
 
 <!-- <li><details><summary><strong>Observed Holidays</strong></summary><p>
@@ -314,26 +314,26 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <p>
 The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
 </p>
-  
+
 | Holiday | Dates |
 |:---:|:---:|
 | Easter | November 24th, 2021 - November 26th, 2021 |
 | Christmas/New Year's | December 24th, 2021 - December 31st, 2021 |
 | Martin Luther King Jr. Day | January 17th, 2022 |
-  
+
 </p></details></li> -->
-  
+
 </ul></details>
 
 ____
 <details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
 
 <ul type="none">
-  
+
   <li><details><summary><strong>Week 1</strong></summary><p>
-  
+
   <p>
-  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. 
+  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files.
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -345,7 +345,7 @@ ____
   |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | []() | []() | []() |
   |  | []() | []() | []() | []() |
   |  | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -365,7 +365,7 @@ ____
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -376,16 +376,16 @@ ____
   </p></details></li>
 
   </ul>
-  
+
   ___
   </p></details></li>
-  
+
   <li><details><summary><strong>Week 2</strong></summary><p>
-  
+
   <p>
   In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript.
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -415,7 +415,7 @@ ____
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -424,9 +424,9 @@ ____
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   </p></details></li>
 
 </p></details>
@@ -437,11 +437,11 @@ ___
 <ul type="none">
 
   <li><details><summary><strong>Week 4</strong></summary><p>
-  
+
    <p>
      In Week 4, we start the week by learning how to call on external data sources with <b>APIs</b>.  Then we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -451,7 +451,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -471,7 +471,7 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -480,18 +480,18 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   ___
   </p></details></li>
-  
+
   <li><details><summary><strong>Week 5</strong></summary><p>
-  
+
   <p>
   In Week 5, we move into more complicated React Hooks like <b>useEffect</b> and <b>useReducer</b>.  We learn about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We are also introduced to <b>React Router</b> and get to see how it gives us powerful new tools to build our React Apps. Then we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -501,7 +501,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -521,7 +521,7 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -530,9 +530,9 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   </p></details></li>
 
 </p></details>
@@ -543,11 +543,11 @@ ___
 <ul type="none">
 
   <li><details><summary><strong>Week 7</strong></summary><p>
-  
+
   <p>
   In Week 7, we are introduced to <b>React Redux</b> as a new way to manage our state in React! We learn about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learn how to map our state and actions to props. We also learn how to use a middleware called <b>thunk</b> in conjunction with Redux. We are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>.
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -557,7 +557,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -577,7 +577,7 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -586,18 +586,18 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   ___
   </p></details></li>
-  
+
   <li><details><summary><strong>Week 8</strong></summary><p>
-  
+
   <p>
   In Week 8, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learn how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learn all about how to integrate <b>user authentication</b> in our apps.
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -607,7 +607,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -627,7 +627,7 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -636,9 +636,9 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   </p></details></li>
 
 </p></details>
@@ -649,11 +649,11 @@ ___
 <ul type="none">
 
   <li><details><summary><strong>Week 10</strong></summary><p>
-  
+
   <p>
   In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -663,7 +663,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -683,7 +683,7 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -692,18 +692,18 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   ___
   </p></details></li>
-  
+
   <li><details><summary><strong>Week 11</strong></summary><p>
-  
+
   <p>
   In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up Auth in Django. At the end of the week, we get to participate in a <b>Djangathon</b>!
   </p>
-  
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
@@ -713,7 +713,7 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
@@ -733,7 +733,7 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
    <li><details><summary>Class Recordings - Group 3</summary><p>
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -742,9 +742,9 @@ ___
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
-  
+
   </ul>
-  
+
   </p></details></li>
 
 </p></details>
@@ -754,9 +754,9 @@ ___
 
 Below is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during the immersive, these resources will still help to solidify your understanding of key concepts after graduation.
   <ul type="none">
-  
+
   <li><details><summary><strong>Practice</strong> - sites to hone your skills</summary><p>
-  
+
   - [Codeacademy](https://www.codecademy.com/catalog)
   - [Codewars](https://www.codewars.com)
   - [CSS Battle](https://cssbattle.dev/)
@@ -765,9 +765,9 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [Grid Garden](https://cssgridgarden.com/)
   - [Screeps](https://screeps.com/)
   </p></details></li>
-  
+
   <li><details><summary><strong>Reading</strong> - helpful articles and topics</summary><p>
-  
+
   - [10 Need-to-know Mac Terminal Commands](https://scotch.io/bar-talk/10-need-to-know-mac-terminal-commands)
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [CSS Tricks](https://css-tricks.com/)
@@ -777,27 +777,27 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [Medium: Local Git Repos vs Remote Repos](https://medium.com/swlh/git-local-repo-and-github-remote-repo-eae1c948fbf5)
   - [Medium: Explaining API's](https://medium.com/javascript-in-plain-english/many-developers-struggle-with-explaining-apis-20a071d74596)
   </p></details></li>
-  
+
   <li><details><summary><strong>Documentation</strong> - commonly used docs for reference</summary><p>
-  
+
   - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   - [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp)
   - [React Docs](https://reactjs.org/docs/getting-started.html)
   - [Django Docs](https://docs.djangoproject.com/en/4.0/)
 
   </p></details></li>
-  
+
   <li><details><summary><strong>Cheatsheets</strong> - quick references</summary><p>
-  
+
   - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
   - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [ES6 Cheatsheet](https://devhints.io/es6)
   - [Component Lifecycle Cheatsheet](https://dev.to/bunlong/react-component-lifecycle-methods-cheatsheet-23gi)
   - [ERD Cheatsheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view?resourcekey=0-pvJ1STXJ4xEpjqpFWQtUhg)
   </p></details></li>
-  
+
   </ul>
- 
+
 </p></details>
 
 ___
