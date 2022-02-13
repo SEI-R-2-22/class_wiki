@@ -20,7 +20,7 @@ ____
 
 <li><details><summary><strong>Instructors</strong></summary><p>
 
-<p>All of the instructors for the entire course. Even though in different Groups, you'll often engage with them and have access to the instructional recordings of <i>all three</i> teams.</p>
+<p>Even though you'll be in different Groups, you'll often engage with each of the instructors at several points and have access to the instructional recordings of <i>all three</i> teams.</p>
 
 <ul type="none">
 
@@ -237,20 +237,6 @@ ____
 ____
   
 </p></details></li>
-
-<!-- <li><details><summary><strong>Observed Holidays</strong></summary><p>
-
-<p>
-The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
-</p>
-  
-| Holiday | Dates |
-|:---:|:---:|
-| Easter | November 24th, 2021 - November 26th, 2021 |
-| Christmas/New Year's | December 24th, 2021 - December 31st, 2021 |
-| Martin Luther King Jr. Day | January 17th, 2022 |
-  
-</p></details></li> -->
   
 </ul></details>
 
@@ -349,6 +335,16 @@ ____
   <p>
   In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. 
   </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installfest) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
+  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | []() | []() |
+  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | []() | []() |
+  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | []() | []() | []() |
+  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | []() | []() | []() |
+  |  | []() | []() | []() | []() |
+  |  | []() | []() | []() | []() |
   
   <ul type="none">
 
@@ -356,13 +352,13 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installfest) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
+  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | []() | []() |
+  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | []() | []() |
+  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | []() | []() | []() |
+  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | []() | []() | []() |
+  |  | []() | []() | []() | []() |
+  |  | []() | []() | []() | []() |
 
   </p></details></li>
 
