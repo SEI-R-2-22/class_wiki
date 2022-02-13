@@ -46,7 +46,7 @@ ____
   <h4>Instructional Associate</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://github.com/nayaba">GitHub</a> | <a href="https://www.linkedin.com/in/nabila-ayaba/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -64,7 +64,7 @@ ____
   <h4>Lead Instructor</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://github.com/taubman33">GitHub</a> | <a href="https://www.linkedin.com/in/jeremy-taubman/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -76,7 +76,7 @@ ____
   <h4>Instructional Associate</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -94,7 +94,7 @@ ____
   <h4>Lead Instructor</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://github.com/GopherEverett">GitHub</a> | <a href="https://www.linkedin.com/in/john-a-jacobs/">LinkedIn</a> | <a href="https://www.johnandrewjacobs.com/">My Personal Website</a></span>
   <br>
 </div>
 
@@ -130,7 +130,7 @@ ____
   <h4>Teaching Assistant</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://github.com/smpr">GitHub</a> | <a href="https://www.linkedin.com/in/glenncrismanbrown/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -174,7 +174,7 @@ ____
   <h4>Student Success Specialist</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://www.linkedin.com/in/david-allison1/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -206,7 +206,7 @@ ____
   <h4>Outcomes Manager</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://www.linkedin.com/in/lea-berry/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -218,7 +218,7 @@ ____
   <h4>Career Coach</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://www.linkedin.com/in/lisadubler/">LinkedIn</a></span>
   <br>
 </div>
 
@@ -230,7 +230,7 @@ ____
   <h4>Career Coach</h4>
   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
-  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <span><a href="https://www.linkedin.com/in/jmli3512/">LinkedIn</a></span>
   <br>
 </div>
 
