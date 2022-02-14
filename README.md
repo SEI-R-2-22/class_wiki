@@ -338,7 +338,7 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installfest) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
+  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
   |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | []() | []() |
   |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | []() | []() |
   |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | []() | []() | []() |
