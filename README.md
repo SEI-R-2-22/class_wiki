@@ -792,7 +792,8 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
   - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [ES6 Cheatsheet](https://devhints.io/es6)
-  - [Component Lifecycle Cheatsheet](https://dev.to/bunlong/react-component-lifecycle-methods-cheatsheet-23gi)
+  - [Mac Terminal Commands Cheatsheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+  - [VSCode Keyboard Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
   - [ERD Cheatsheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view?resourcekey=0-pvJ1STXJ4xEpjqpFWQtUhg)
   </p></details></li>
 
