@@ -71,11 +71,11 @@ ____
 ____
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/mncCRmk.png" alt="brittany">
+  <img width="200px" src="https://i.imgur.com/TkTJmAs.png" alt="brittany">
   <h3>Brittany Morataya</h3>
   <h4>Instructional Associate</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <p>My name is Brittany and I will be your <b>Instructor Associate (IA)</b> for Group 2. I will be here as added support through your journey of becoming a software engineer.</p>
+  <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients. This will be my second cohort as an IA and I am excited to guide and help shape your minds.</p>
   <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
   <br>
 </div>
