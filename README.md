@@ -309,7 +309,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 
 </p></details></li>
 
-<!-- <li><details><summary><strong>Observed Holidays</strong></summary><p>
+<li><details><summary><strong>Observed Holidays</strong></summary><p>
 
 <p>
 The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
@@ -317,11 +317,9 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Dates |
 |:---:|:---:|
-| Easter | November 24th, 2021 - November 26th, 2021 |
-| Christmas/New Year's | December 24th, 2021 - December 31st, 2021 |
-| Martin Luther King Jr. Day | January 17th, 2022 |
+| President's Day | February 21st, 2022 |
 
-</p></details></li> -->
+</p></details></li>
 
 </ul></details>
 
@@ -333,18 +331,18 @@ ____
   <li><details><summary><strong>Week 1</strong></summary><p>
 
   <p>
-  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files.
+  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
-  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | []() | []() |
-  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | []() | []() |
-  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | []() | []() | []() |
-  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | []() | []() | []() |
-  |  | []() | []() | []() | []() |
-  |  | []() | []() | []() | []() |
+  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-2-22/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-2-22/u1_lesson_intro_DOM) |
+  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-2-22/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-2-22/u1_lab_DOM_quotes) |
+  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-2-22/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-2-22/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-2-22/u1_lesson_js_events) |
+  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-2-22/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-2-22/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-2-22/u1_lab_dots) |
+  |  |  | [Markdown / ReadMe Homework](https://github.com/SEI-R-2-22/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-2-22/u1_lesson_js_scope) | [Tic Tac Toe Homework](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) |
+  |  |  |  | [Control Flow Adventure Homework](https://github.com/SEI-R-2-22/u1_hw_control_flow_adventure) |  |
 
   <ul type="none">
 
