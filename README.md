@@ -44,8 +44,8 @@ ____
   <img width="200px" src="https://i.imgur.com/At6UUjZ.png" alt="nabila">
   <h3>Nabila Ayaba</h3>
   <h4>Instructional Associate</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://github.com/nayaba">GitHub</a> | <a href="https://www.linkedin.com/in/nabila-ayaba/">LinkedIn</a></span>
   <br>
 </div>
@@ -62,8 +62,8 @@ ____
   <img width="200px" src="https://i.imgur.com/xDwQZ7E.png" alt="jeremy">
   <h3>Jeremy Taubman</h3>
   <h4>Lead Instructor</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://github.com/taubman33">GitHub</a> | <a href="https://www.linkedin.com/in/jeremy-taubman/">LinkedIn</a></span>
   <br>
 </div>
@@ -71,11 +71,11 @@ ____
 ____
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/mncCRmk.png" alt="brittany">
+  <img width="200px" src="https://i.imgur.com/TkTJmAs.png" alt="brittany">
   <h3>Brittany Morataya</h3>
   <h4>Instructional Associate</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <p>My name is Brittany and I will be your <b>Instructor Associate (IA)</b> for Group 2. I will be here as added support through your journey of becoming a software engineer.</p>
+  <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients. This will be my second cohort as an IA and I am excited to guide and help shape your minds.</p>
   <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
   <br>
 </div>
@@ -128,8 +128,8 @@ ____
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="glenn">
   <h3>Glenn Brown</h3>
   <h4>Teaching Assistant</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://github.com/smpr">GitHub</a> | <a href="https://www.linkedin.com/in/glenncrismanbrown/">LinkedIn</a></span>
   <br>
 </div>
@@ -140,8 +140,8 @@ ____
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
   <h3>Unknown</h3>
   <h4>Teaching Assistant</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
   <br>
 </div>
@@ -152,8 +152,8 @@ ____
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
   <h3>Unknown</h3>
   <h4>Teaching Assistant</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
   <br>
 </div>
@@ -172,8 +172,8 @@ ____
   <img width="200px" src="https://i.imgur.com/RxiKXwx.png" alt="david">
   <h3>David Allison</h3>
   <h4>Student Success Specialist</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://www.linkedin.com/in/david-allison1/">LinkedIn</a></span>
   <br>
 </div>
@@ -184,8 +184,8 @@ ____
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
   <h3>Unknown</h3>
   <h4>Student Success Specialist</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
   <br>
 </div>
@@ -204,8 +204,8 @@ ____
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="brittany">
   <h3>Brittany Dawson</h3>
   <h4>Career Coach</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://www.linkedin.com/">LinkedIn</a></span>
   <br>
 </div>
@@ -216,8 +216,8 @@ ____
   <img width="200px" src="https://i.imgur.com/Yj9mGfP.png" alt="lisa">
   <h3>Lisa Dubler</h3>
   <h4>Career Coach</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://www.linkedin.com/in/lisadubler/">LinkedIn</a></span>
   <br>
 </div>
@@ -228,8 +228,8 @@ ____
   <img width="200px" src="https://i.imgur.com/aaAVq6k.png" alt="jessica">
   <h3>Jessica Li</h3>
   <h4>Career Coach</h4>
-  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <span><a href="https://www.linkedin.com/in/jmli3512/">LinkedIn</a></span>
   <br>
 </div>
@@ -309,7 +309,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 
 </p></details></li>
 
-<!-- <li><details><summary><strong>Observed Holidays</strong></summary><p>
+<li><details><summary><strong>Observed Holidays</strong></summary><p>
 
 <p>
 The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
@@ -317,11 +317,9 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Dates |
 |:---:|:---:|
-| Easter | November 24th, 2021 - November 26th, 2021 |
-| Christmas/New Year's | December 24th, 2021 - December 31st, 2021 |
-| Martin Luther King Jr. Day | January 17th, 2022 |
+| President's Day | February 21st, 2022 |
 
-</p></details></li> -->
+</p></details></li>
 
 </ul></details>
 
@@ -333,18 +331,18 @@ ____
   <li><details><summary><strong>Week 1</strong></summary><p>
 
   <p>
-  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files.
+  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installfest) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | []() | []() |
-  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | []() | []() |
-  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | []() | []() |
-  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | []() | []() | []() |
-  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | []() | []() | []() |
-  |  | []() | []() | []() | []() |
-  |  | []() | []() | []() | []() |
+  | President's Day | [Installfest](https://github.com/SEI-R-2-22/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-2-22/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-2-22/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-2-22/u1_lesson_intro_DOM) |
+  |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-2-22/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-2-22/u1_lab_DOM_quotes) |
+  |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-2-22/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-2-22/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-2-22/u1_lesson_js_events) |
+  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-2-22/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-2-22/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-2-22/u1_lab_dots) |
+  |  |  | [Markdown / ReadMe Homework](https://github.com/SEI-R-2-22/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-2-22/u1_lesson_js_scope) | [Tic Tac Toe Homework](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) |
+  |  |  |  | [Control Flow Adventure Homework](https://github.com/SEI-R-2-22/u1_hw_control_flow_adventure) |  |
 
   <ul type="none">
 
