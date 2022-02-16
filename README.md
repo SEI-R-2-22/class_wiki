@@ -62,8 +62,8 @@ ____
   <img width="200px" src="https://i.imgur.com/xDwQZ7E.png" alt="jeremy">
   <h3>Jeremy Taubman</h3>
   <h4>Lead Instructor</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <p>My name is Jeremy Taubman, I live outside of New York City and have been with GA since 2019. I will be the <b>Lead Instructor</b> for Group 2 for this immersive.</p>
+  <p>Outside of programming, I enjoy music, cooking, and solving crossword puzzles. I love learning new things, building up projects with Javascript and Python, and can make some of the best Ramen you’ll ever have.</p>
   <span><a href="https://github.com/taubman33">GitHub</a> | <a href="https://www.linkedin.com/in/jeremy-taubman/">LinkedIn</a></span>
   <br>
 </div>
@@ -228,9 +228,10 @@ ____
   <img width="200px" src="https://i.imgur.com/aaAVq6k.png" alt="jessica">
   <h3>Jessica Li</h3>
   <h4>Career Coach</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <p>Hi There! I’m Jessica and I’m one of the <b>Career Coaches</b> for this immersive. I’ll be supporting you all as you transition into the world as a software developer. I’m based in sunny California, San Francisco to be exact <i>#karlthefog</i>. I’ve changed careers 2-3 times, so I kind-a get of how intimidating and scary this process can be. I’ve been working career changers to new grads on their job search since 2016. I’ve been with GA for a little over a year.</p>
+  <p>When I’m not working, you can find me on my yoga mat or find new recipes to cook in the kitchen! My most recent kitchen adventure accomplishment— apple custard pie with a cinnamon streusel (I even made the pie crust from scratch).</p>
   <span><a href="https://www.linkedin.com/in/jmli3512/">LinkedIn</a></span>
+  <span><p>If you plan on adding me, drop a note to let me know that you’re part of the SEI-R-2-22 cohort. If not, I don’t accept connections with folks without a note.</p></span>
   <br>
 </div>
 
