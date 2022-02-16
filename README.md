@@ -393,7 +393,7 @@ ____
   |  | [ES6 Lab](https://github.com/SEI-R-2-22/u1_lab_ES6_practice) |  | [JS Fast & Furious Homework](https://github.com/SEI-R-2-22/u1_hw_fast_and_furious) |  |
   |  | [CodeWars Homework](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  | -->
 
-  <ul type="none">
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -422,7 +422,7 @@ ____
 
   </p></details></li>
 
-  </ul>
+  </ul> -->
 
   </p></details></li>
 
@@ -439,7 +439,7 @@ ___
      In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
@@ -447,9 +447,9 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() | -->
 
-  <ul type="none">
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -478,7 +478,7 @@ ___
 
   </p></details></li>
 
-  </ul>
+  </ul> -->
 
   ___
   </p></details></li>
@@ -489,8 +489,8 @@ ___
   In Week 5, we move into more complicated React Hooks like <b>useEffect</b> and <b>useReducer</b>.  We learn about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We are also introduced to <b>React Router</b> and get to see how it gives us powerful new tools to build our React Apps. Then we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
-  |:---:|:---:|:---:|:---:|:---:|:---:|
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
@@ -498,8 +498,8 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-
-  <ul type="none">
+ -->
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -528,7 +528,7 @@ ___
 
   </p></details></li>
 
-  </ul>
+  </ul> -->
 
   </p></details></li>
 
@@ -545,7 +545,7 @@ ___
   In Week 7, we are introduced to <b>React Redux</b> as a new way to manage our state in React! We learn about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learn how to map our state and actions to props. We also learn how to use a middleware called <b>thunk</b> in conjunction with Redux. We are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
@@ -554,8 +554,8 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-
-  <ul type="none">
+ -->
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -585,7 +585,7 @@ ___
   </p></details></li>
 
   </ul>
-
+ -->
   ___
   </p></details></li>
 
@@ -595,7 +595,7 @@ ___
   In Week 8, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learn how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learn all about how to integrate <b>user authentication</b> in our apps.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
@@ -603,9 +603,9 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() | -->
 
-  <ul type="none">
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -634,7 +634,7 @@ ___
 
   </p></details></li>
 
-  </ul>
+  </ul> -->
 
   </p></details></li>
 
@@ -651,7 +651,7 @@ ___
   In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
@@ -660,8 +660,8 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-
-  <ul type="none">
+ -->
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -691,7 +691,7 @@ ___
   </p></details></li>
 
   </ul>
-
+ -->
   ___
   </p></details></li>
 
@@ -701,7 +701,7 @@ ___
   In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up Auth in Django. At the end of the week, we get to participate in a <b>Djangathon</b>!
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
@@ -710,8 +710,8 @@ ___
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-
-  <ul type="none">
+ -->
+<!--   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -740,7 +740,7 @@ ___
 
   </p></details></li>
 
-  </ul>
+  </ul> -->
 
   </p></details></li>
 
