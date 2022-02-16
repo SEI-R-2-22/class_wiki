@@ -381,7 +381,7 @@ ____
   <li><details><summary><strong>Week 2</strong></summary><p>
 
   <p>
-  In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript.
+  In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
   </p>
 
 <!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -436,7 +436,7 @@ ___
   <li><details><summary><strong>Week 4</strong></summary><p>
 
    <p>
-     In Week 4, we start the week by learning how to call on external data sources with <b>APIs</b>.  Then we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
+     In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
