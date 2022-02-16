@@ -357,16 +357,16 @@ ____
 
   <li><details><summary>Class Recordings - Group 2</summary><p>
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
-   <li><details><summary>Class Recordings - Group 3</summary><p>
+  <li><details><summary>Class Recordings - Group 3</summary><p>
 
- | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
@@ -384,15 +384,14 @@ ____
   In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript.
   </p>
 
-  | Monday | Tuesday | Wednesday | Thursday | Friday |
+<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | [Tic Tac Toe Work Time](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) | [Intro Daily JS Challenges](https://github.com/SEI-R-2-22/daily_js_challenges) | [JS HOF](https://github.com/SEI-R-2-22/u1_lesson_HOF) | [Box Model Practice](https://github.com/SEI-R-2-22/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-2-22/u1_lesson_intro_to_APIs) |
+  |  | [JS Objects](https://github.com/SEI-R-2-22/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/SEI-R-2-22/u1_lab_HOF) | [Intro to OOP](https://github.com/SEI-R-2-22/u1_lesson_OOP) | [Dogs API Lab](https://github.com/SEI-R-2-22/u1_lab_API_dogs) |
+  |  | [Jurassic Objects Lab](https://github.com/SEI-R-2-22/u1_lab_jurassic_objects) | [JS HOF Homework](https://github.com/SEI-R-2-22/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-2-22/u1_lab_OOP_exercise) | [TMDB Lab / Homework](https://github.com/SEI-R-2-22/u1_hw_TMDB_API) |
+  |  | [ES6 Syntax](https://github.com/SEI-R-2-22/u1_lesson_ES6) |  | [Donut Adventure Lab](https://github.com/SEI-R-2-22/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/SEI-R-2-22/u1_project_prompt) |
+  |  | [ES6 Lab](https://github.com/SEI-R-2-22/u1_lab_ES6_practice) |  | [JS Fast & Furious Homework](https://github.com/SEI-R-2-22/u1_hw_fast_and_furious) |  |
+  |  | [CodeWars Homework](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  | -->
 
   <ul type="none">
 
@@ -791,7 +790,6 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [ES6 Cheatsheet](https://devhints.io/es6)
   - [Mac Terminal Commands Cheatsheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
-  - [Oh My Zsh Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
   - [VSCode Keyboard Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
   - [ERD Cheatsheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view?resourcekey=0-pvJ1STXJ4xEpjqpFWQtUhg)
   </p></details></li>
