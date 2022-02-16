@@ -216,8 +216,8 @@ ____
   <img width="200px" src="https://i.imgur.com/Yj9mGfP.png" alt="lisa">
   <h3>Lisa Dubler</h3>
   <h4>Career Coach</h4>
-<!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
-  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <p>Lisa Dubler (she/her) is a Career Coach with 10+ years of experience supporting leaders at all levels, from recent college grads to senior executives, by connecting them with the resources that they need in order to thrive both personally and professionally.</p>
+  <p>As a career changer herself with experience in higher education, non-profit, media-tech, philanthropy, and tech-education, Lisa knows first-hand the challenges that come with navigating a career pivot. It can feel intimidating and overwhelming, but it does not need to be! Through a strengths and action-based approach, tailored to your short-term and long-term goals, Lisa helps job seekers breakthrough blockers to get to where they want to be.</p>
   <span><a href="https://www.linkedin.com/in/lisadubler/">LinkedIn</a></span>
   <br>
 </div>
