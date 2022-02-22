@@ -127,7 +127,7 @@ ____
 ____
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="glenn">
+  <img width="200px" src="https://i.imgur.com/WW9uE5K.png" alt="glenn">
   <h3>Glenn Brown</h3>
   <h4>Teaching Assistant</h4>
 <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
