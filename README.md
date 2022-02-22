@@ -233,6 +233,7 @@ ____
   <p>Hi There! I’m Jessica and I’m one of the <b>Career Coaches</b> for this immersive. I’ll be supporting you all as you transition into the world as a software developer. I’m based in sunny California, San Francisco to be exact <i>#karlthefog</i>. I’ve changed careers 2-3 times, so I kind-a get of how intimidating and scary this process can be. I’ve been working career changers to new grads on their job search since 2016. I’ve been with GA for a little over a year.</p>
   <p>When I’m not working, you can find me on my yoga mat or find new recipes to cook in the kitchen! My most recent kitchen adventure accomplishment— apple custard pie with a cinnamon streusel (I even made the pie crust from scratch).</p>
   <span><a href="https://www.linkedin.com/in/jmli3512/">LinkedIn</a></span>
+  <br><br>
   <span><p><i>If you plan on adding me on LinkedIn, drop a note to let me know that you’re part of the SEI-R-2-22 cohort. I don’t accept connections from folks without a note.</i></p></span>
 </div>
 
