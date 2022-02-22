@@ -5,13 +5,15 @@
 </div>
 
 ___
-Welcome to the SEI-R-2-22 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
+Welcome to the <b>SEI-R-2-22 Class Wiki</b>.
+
+This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 
 Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R-2-22/template_pull_request).
 
 <!-- Daily Javascript Challenges can be found [here](https://github.com/SEI-R-2-22/daily_js_challenges). -->
 
-<!-- Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
+<!-- Computer Science Algorithms & Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
 
 ____
 <details><summary><strong>General Assembly Team</strong></summary><p>
