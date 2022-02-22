@@ -789,11 +789,12 @@ Below is a list of additional resources that were hand-picked by your instructor
 
   <li><details><summary><strong>Cheatsheets</strong> - quick references</summary><p>
 
+  - [Mac Terminal Commands Cheatsheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+  - [OhMyZsh Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
+  - [VSCode Keyboard Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
   - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
   - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [ES6 Cheatsheet](https://devhints.io/es6)
-  - [Mac Terminal Commands Cheatsheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
-  - [VSCode Keyboard Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
   - [ERD Cheatsheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view?resourcekey=0-pvJ1STXJ4xEpjqpFWQtUhg)
   </p></details></li>
 
