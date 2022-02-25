@@ -140,7 +140,7 @@ ____
 
 <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
-  <h3>TBA</h3>
+  <h3>Forest Traylor</h3>
   <h4>Teaching Assistant</h4>
 <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
@@ -353,8 +353,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/rRARzphk3JdN5y303Dq4251usT-d61AKOFtjrQCyzZXlJM7JyyeHC0CooZHY7UY.eK0-LlpXWwyj79AA) | [Recording](https://generalassembly.zoom.us/rec/share/721lccLe-Mb0JcUXk0mbFJvSR_L2D_RaBTr958SS4EgYMiAW7Ax1LWCrIXhaNQ.B0lHjvNrzwhoZXY0) | [Recording]() | [Recording]() |
-  |  | Passcode: `j!s^jbz5` | Passcode: `hDbteR@1` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/rRARzphk3JdN5y303Dq4251usT-d61AKOFtjrQCyzZXlJM7JyyeHC0CooZHY7UY.eK0-LlpXWwyj79AA) | [Recording](https://generalassembly.zoom.us/rec/share/721lccLe-Mb0JcUXk0mbFJvSR_L2D_RaBTr958SS4EgYMiAW7Ax1LWCrIXhaNQ.B0lHjvNrzwhoZXY0) | [Recording](https://generalassembly.zoom.us/rec/share/Aoa6XZv4H0tU77pkIh8lwFZLv5CUj5kFzoYY7VuKd1nRfyf10SW4JLaoIR9Q2odO.xIJNCAelLp64cDcK) | [Recording]() |
+  |  | Passcode: `j!s^jbz5` | Passcode: `hDbteR@1` | Passcode: `9UiGLFg^` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -362,8 +362,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/s4PSqe-t5bVjaRuSelBLAsNjcngZEYCP1mIZ8KtOjEwohMG4JwyWqK-O60clHyqr.moz82Vt_zHAEl9KW) | [Recording](https://generalassembly.zoom.us/rec/share/kZYh0nGB2xttYT5wJsftaLyxLtu_NYHU5XD2qjWl138KU1O7TsLW7YVMItLjQR8.0MHpc_nkFZmsyPpw) | [Recording]() | [Recording]() |
-  |  | Passcode: `.L+06ej9` | Passcode: `k0yi!?y&` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/s4PSqe-t5bVjaRuSelBLAsNjcngZEYCP1mIZ8KtOjEwohMG4JwyWqK-O60clHyqr.moz82Vt_zHAEl9KW) | [Recording](https://generalassembly.zoom.us/rec/share/kZYh0nGB2xttYT5wJsftaLyxLtu_NYHU5XD2qjWl138KU1O7TsLW7YVMItLjQR8.0MHpc_nkFZmsyPpw) | [Recording](https://generalassembly.zoom.us/rec/share/V0IgvtBVsZIbeSI-ft6TIp9poPYweubeA_b3lDbZ1yMPDWKnEwVGi2xwcGBgpJx0.Z8Z2qhbY0O_YaHOC ) | [Recording]() |
+  |  | Passcode: `.L+06ej9` | Passcode: `k0yi!?y&` | Passcode: `6q0!HxR%` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -371,8 +371,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/na5o8zJmIoTLCPGLUkcIWH1oXcLpp3KKPiDzMDmGwHR5WA7v7vCnG8aVcbX4yW0L.rgYxI-945NZEtdra) | [Recording](https://generalassembly.zoom.us/rec/share/KckB_OA9IiortPxZrsSxcypHDWYpUIsr9Ei55EGvhgjegE-wEQexUV9ruuYzD_h-.kYebdqpvxVnlmUpW) | [Recording]() | [Recording]() |
-  |  | Passcode: `2v!*MfHr` | Passcode: `5Fgvm*2q` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/na5o8zJmIoTLCPGLUkcIWH1oXcLpp3KKPiDzMDmGwHR5WA7v7vCnG8aVcbX4yW0L.rgYxI-945NZEtdra) | [Recording](https://generalassembly.zoom.us/rec/share/KckB_OA9IiortPxZrsSxcypHDWYpUIsr9Ei55EGvhgjegE-wEQexUV9ruuYzD_h-.kYebdqpvxVnlmUpW) | [Recording](https://generalassembly.zoom.us/rec/share/wLZV-tyKkVavyjyqVk1Ev11Aj807nAw3H3ptUw6sOJxJvdNV0c_Q8_it5vxWP3kP._z3AGIYe4O6RfWSq) | [Recording]() |
+  |  | Passcode: `2v!*MfHr` | Passcode: `5Fgvm*2q` | Passcode: `ik+9z54e` | Passcode: ` ` |
 
   </p></details></li>
 
