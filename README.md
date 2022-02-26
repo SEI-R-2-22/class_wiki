@@ -387,16 +387,16 @@ ____
   In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Tic Tac Toe Work Time](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) | [Intro Daily JS Challenges](https://github.com/SEI-R-2-22/daily_js_challenges) | [JS HOF](https://github.com/SEI-R-2-22/u1_lesson_HOF) | [Box Model Practice](https://github.com/SEI-R-2-22/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-2-22/u1_lesson_intro_to_APIs) |
   |  | [JS Objects](https://github.com/SEI-R-2-22/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/SEI-R-2-22/u1_lab_HOF) | [Intro to OOP](https://github.com/SEI-R-2-22/u1_lesson_OOP) | [Dogs API Lab](https://github.com/SEI-R-2-22/u1_lab_API_dogs) |
   |  | [Jurassic Objects Lab](https://github.com/SEI-R-2-22/u1_lab_jurassic_objects) | [JS HOF Homework](https://github.com/SEI-R-2-22/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-2-22/u1_lab_OOP_exercise) | [TMDB Lab / Homework](https://github.com/SEI-R-2-22/u1_hw_TMDB_API) |
   |  | [ES6 Syntax](https://github.com/SEI-R-2-22/u1_lesson_ES6) |  | [Donut Adventure Lab](https://github.com/SEI-R-2-22/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/SEI-R-2-22/u1_project_prompt) |
   |  | [ES6 Lab](https://github.com/SEI-R-2-22/u1_lab_ES6_practice) |  | [JS Fast & Furious Homework](https://github.com/SEI-R-2-22/u1_hw_fast_and_furious) |  |
-  |  | [CodeWars Homework](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  | -->
+  |  | [CodeWars Homework](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  |
 
-<!--   <ul type="none">
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -425,7 +425,7 @@ ____
 
   </p></details></li>
 
-  </ul> -->
+  </ul>
 
   </p></details></li>
 
