@@ -411,8 +411,8 @@ ____
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/HRgknB9H971OVRZGIWG73uKZ6ebYmagxkhaTzuo9A-7MuxASGwq6UGY9QrBLis4L.ZedA3rPq6vGtqcrW) | [Recording]() | [Recording]() | [Recording]() |
-  |  | Passcode: `1zNN#Jpe` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/HRgknB9H971OVRZGIWG73uKZ6ebYmagxkhaTzuo9A-7MuxASGwq6UGY9QrBLis4L.ZedA3rPq6vGtqcrW) | [Recording](https://generalassembly.zoom.us/rec/share/BQLyrGzgzT2M81N4PfQL0U2hcOQpGzYXqovlEyc1KYCcNQTRkAjVT-7MtWrrvlE_.GoB9TvCGeWnSBpKa) | [Recording]() | [Recording]() |
+  |  | Passcode: `1zNN#Jpe` | Passcode: `4Lq!sK&+` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
