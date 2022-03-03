@@ -11,7 +11,7 @@ This repository is a place where links to all of the course content that we cove
 
 Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R-2-22/template_pull_request).
 
-<!-- Daily Javascript Challenges can be found [here](https://github.com/SEI-R-2-22/daily_js_challenges). -->
+Daily Javascript Challenges can be found [here](https://github.com/SEI-R-2-22/daily_js_challenges).
 
 <!-- Computer Science Algorithms & Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures). -->
 
