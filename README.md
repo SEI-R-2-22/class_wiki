@@ -344,8 +344,8 @@ ____
   |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-2-22/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-2-22/u1_lab_DOM_quotes) |
   |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-2-22/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-2-22/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-2-22/u1_lesson_js_events) |
   |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-2-22/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-2-22/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-2-22/u1_lab_dots) |
-  |  |  | [Markdown / ReadMe Homework](https://github.com/SEI-R-2-22/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-2-22/u1_lesson_js_scope) | [Tic Tac Toe Homework](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) |
-  |  |  |  | [Control Flow Adventure Homework](https://github.com/SEI-R-2-22/u1_hw_control_flow_adventure) |  |
+  |  |  | [Markdown / ReadMe HW](https://github.com/SEI-R-2-22/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-2-22/u1_lesson_js_scope) | [Tic Tac Toe HW](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) |
+  |  |  |  | [Control Flow Adventure HW](https://github.com/SEI-R-2-22/u1_hw_control_flow_adventure) |  |
 
   <ul type="none">
 
@@ -391,10 +391,10 @@ ____
   |:---:|:---:|:---:|:---:|:---:|
   | [Tic Tac Toe Work Time](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) | [Intro Daily JS Challenges](https://github.com/SEI-R-2-22/daily_js_challenges) | [JS HOF](https://github.com/SEI-R-2-22/u1_lesson_HOF) | [Box Model Practice](https://github.com/SEI-R-2-22/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-2-22/u1_lesson_intro_to_APIs) |
   |  | [JS Objects](https://github.com/SEI-R-2-22/u1_lesson_js_objects) | [JS HOF Lab](https://github.com/SEI-R-2-22/u1_lab_HOF) | [Intro to OOP](https://github.com/SEI-R-2-22/u1_lesson_OOP) | [Dogs API Lab](https://github.com/SEI-R-2-22/u1_lab_API_dogs) |
-  |  | [Jurassic Objects Lab](https://github.com/SEI-R-2-22/u1_lab_jurassic_objects) | [JS HOF Homework](https://github.com/SEI-R-2-22/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-2-22/u1_lab_OOP_exercise) | [TMDB Lab / Homework](https://github.com/SEI-R-2-22/u1_lab_TMDB_API) |
+  |  | [Jurassic Objects Lab](https://github.com/SEI-R-2-22/u1_lab_jurassic_objects) | [JS HOF HW](https://github.com/SEI-R-2-22/u1_hw_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-2-22/u1_lab_OOP_exercise) | [TMDB Lab / HW](https://github.com/SEI-R-2-22/u1_lab_TMDB_API) |
   |  | [ES6 Syntax](https://github.com/SEI-R-2-22/u1_lesson_ES6) |  | [Donut Adventure Lab](https://github.com/SEI-R-2-22/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/SEI-R-2-22/u1_project_prompt) |
-  |  | [ES6 Lab](https://github.com/SEI-R-2-22/u1_lab_ES6_practice) |  | [JS Fast & Furious Homework](https://github.com/SEI-R-2-22/u1_hw_fast_and_furious) |  |
-  |  | [CodeWars Homework](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  |
+  |  | [ES6 Lab](https://github.com/SEI-R-2-22/u1_lab_ES6_practice) |  | [JS Fast & Furious HW](https://github.com/SEI-R-2-22/u1_hw_fast_and_furious) |  |
+  |  | [CodeWars HW](https://github.com/SEI-R-2-22/u1_hw_codewars_challenges) |  |  |  |
 
   <ul type="none">
 
@@ -442,17 +442,17 @@ ___
      In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | -->
+  | [Intro to React](https://github.com/SEI-R-2-22/u2_lesson_intro_to_react) | [Component Hierarchy Diagrams](https://github.com/SEI-R-2-22/u2_lesson_component_hierarchy) | [Intro to useEffect](https://github.com/SEI-R-2-22/u2_lesson_useEffect) | [Conditional Rendering](https://github.com/SEI-R-2-22/u2_lesson_conditional_rendering) | [React Router](https://github.com/SEI-R-2-22/u2_lesson_react_router) |
+  | [React Components](https://github.com/SEI-R-2-22/u2_lesson_react_components) | [React Mapping Components](https://github.com/SEI-R-2-22/u2_lesson_react_mapping_components) | [Stoplight Lab](https://github.com/SEI-R-2-22/u2_lab_useEffect_stoplight) | [Conditional Rendering Lab](https://github.com/SEI-R-2-22/u2_lab_conditional_rendering) | [React Router Lab](https://github.com/SEI-R-2-22/u2_lab_react_router) |
+  | [React Props](https://github.com/SEI-R-2-22/u2_lesson_react_props) | [Mapping Components Lab](https://github.com/SEI-R-2-22/u2_lab_mapping_components) | [Groceries Lab](https://github.com/SEI-R-2-22/u2_lab_groceries) | [React w/ APIs](https://github.com/SEI-R-2-22/u2_lesson_react_APIs) | [MongoDB Install](https://github.com/SEI-R-2-22/u2_lesson_mongo_install) |
+  | [LOTR Lab](https://github.com/SEI-R-2-22/u2_lab_react_LOTR) | [Intro to State & Hooks](https://github.com/SEI-R-2-22/u2_lesson_intro_to_state) | [Dr. Who Lab](https://github.com/SEI-R-2-22/u2_lab_dr_who) | [Kanye useEffect Lab](https://github.com/SEI-R-2-22/u2_lab_kanye_useEffect) | [RAWG Router Lab / HW](https://github.com/SEI-R-2-22/u2_hw_RAWG_router) |
+  | [React Quiz HW](https://github.com/SEI-R-2-22/u2_hw_react_quiz) | [Hooks ATM Lab](https://github.com/SEI-R-2-22/u2_lab_hooks_ATM) | [Password Validator Lab](https://github.com/SEI-R-2-22/u2_lab_password_validator) | [React Calculator HW](https://github.com/SEI-R-2-22/u2_hw_react_calculator) |  |
+  |  | [Likes Lab](https://github.com/SEI-R-2-22/u2_lab_likes) |  |  |  |
+  |  | [Movie Mapping HW](https://github.com/SEI-R-2-22/u2_hw_movie_mapping) |  |  |  |
 
-<!--   <ul type="none">
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -481,7 +481,7 @@ ___
 
   </p></details></li>
 
-  </ul> -->
+  </ul>
 
   ___
   </p></details></li>
