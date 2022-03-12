@@ -343,7 +343,7 @@ ____
   |  | [Terminal Lesson](https://github.com/SEI-R-2-22/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-2-22/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-2-22/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-2-22/u1_lesson_intro_DOM) |
   |  | [Git Lesson](https://github.com/SEI-R-2-22/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-2-22/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-2-22/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-2-22/u1_lab_DOM_quotes) |
   |  | [VS Code Lesson](https://github.com/SEI-R-2-22/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-2-22/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-2-22/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-2-22/u1_lesson_js_events) |
-  |  | [Star Wars Homework](https://github.com/SEI-R-2-22/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-2-22/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-2-22/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-2-22/u1_lab_dots) |
+  |  | [Star Wars HW](https://github.com/SEI-R-2-22/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-2-22/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-2-22/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-2-22/u1_lab_dots) |
   |  |  | [Markdown / ReadMe HW](https://github.com/SEI-R-2-22/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-2-22/u1_lesson_js_scope) | [Tic Tac Toe HW](https://github.com/SEI-R-2-22/u1_hw_tic_tac_toe) |
   |  |  |  | [Control Flow Adventure HW](https://github.com/SEI-R-2-22/u1_hw_control_flow_adventure) |  |
 
