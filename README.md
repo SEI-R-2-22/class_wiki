@@ -439,7 +439,7 @@ ___
   <li><details><summary><strong>Week 4</strong></summary><p>
 
    <p>
-     In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps.
+     In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps. We also get into how we can use <b>useEffect</b> to make axios calls in our React apps. Finally at the end of the week, we learn <b>React Router</b>, a powerful tool for navigating around our virtual DOM.
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
