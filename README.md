@@ -489,20 +489,20 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
 
   <p>
-  In Week 5, we move into more complicated React Hooks like <b>useEffect</b> and <b>useReducer</b>.  We learn about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We are also introduced to <b>React Router</b> and get to see how it gives us powerful new tools to build our React Apps. Then we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.
+  In Week 5, we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data. We round out the week with a huge group <b>Hackathon!</b>
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
+  | [Intro to Express](https://github.com/SEI-R-2-22/u2_lesson_express_intro) | []() | []() | []() | []() |
+  | [Express Routes](https://github.com/SEI-R-2-22/u2_lesson_express_routing) | []() | []() | []() | []() |
+  | [Intro to Middleware](https://github.com/SEI-R-2-22/u2_lesson_express_middleware) | []() | []() | []() | []() |
+  | [Express Controllers](https://github.com/SEI-R-2-22/u2_lesson_express_controllers) | []() | []() | []() | []() |
+  | [Express Fruits HW](https://github.com/SEI-R-2-22/u2_hw_express_fruits) | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
+
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -531,7 +531,7 @@ ___
 
   </p></details></li>
 
-  </ul> -->
+  </ul>
 
   </p></details></li>
 
