@@ -498,7 +498,7 @@ ___
   | [Express Routes](https://github.com/SEI-R-2-22/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/SEI-R-2-22/u2_lab_mongoDB_sneakers) | [ERD](https://github.com/SEI-R-2-22/u2_lesson_ERD) | []() | []() |
   | [Intro to Middleware](https://github.com/SEI-R-2-22/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-2-22/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/SEI-R-2-22/u2_lesson_group_git) | []() | []() |
   | [Express Controllers](https://github.com/SEI-R-2-22/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-2-22/u2_lab_mongoose_express) | [Full Stackathon Planning HW](https://github.com/SEI-R-2-22/u2_full_stackathon) | []() | []() |
-  | [Express Fruits HW](https://github.com/SEI-R-2-22/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/SEI-R-2-22/u2_hw_mongoose_plants) | []() | []() | []() |
+  | [Express Fruits HW](https://github.com/SEI-R-2-22/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/SEI-R-2-22/u2_hw_mongoose_plants) | []() | []() | [Heroku Deployment Walkthrough](https://github.com/SEI-R-2-22/deployment_heroku) |
 
   <ul type="none">
 
