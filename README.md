@@ -497,7 +497,7 @@ ___
   | [Intro to Express](https://github.com/SEI-R-2-22/u2_lesson_express_intro) | [MongoDB](https://github.com/SEI-R-2-22/u2_lesson_mongoDB) | [Mongoose Associations](https://github.com/SEI-R-2-22/u2_lesson_mongoose_associations) | [Full Stackathon](https://github.com/SEI-R-2-22/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-2-22/u2_full_stackathon) |
   | [Express Routes](https://github.com/SEI-R-2-22/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/SEI-R-2-22/u2_lab_mongoDB_sneakers) | [ERD](https://github.com/SEI-R-2-22/u2_lesson_ERD) | []() | []() |
   | [Intro to Middleware](https://github.com/SEI-R-2-22/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-2-22/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/SEI-R-2-22/u2_lesson_group_git) | []() | []() |
-  | [Express Controllers](https://github.com/SEI-R-2-22/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-2-22/u2_lab_mongoose_express) | [Full Stackathon PLanning HW](https://github.com/SEI-R-2-22/u2_full_stackathon) | []() | []() |
+  | [Express Controllers](https://github.com/SEI-R-2-22/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-2-22/u2_lab_mongoose_express) | [Full Stackathon Planning HW](https://github.com/SEI-R-2-22/u2_full_stackathon) | []() | []() |
   | [Express Fruits HW](https://github.com/SEI-R-2-22/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/SEI-R-2-22/u2_hw_mongoose_plants) | []() | []() | []() |
 
   <ul type="none">
