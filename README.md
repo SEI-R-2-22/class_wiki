@@ -533,8 +533,8 @@ ___
 
   | Group 1 | Group 2 | Group 3 |
   |:---:|:---:|:---:|
-  | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/39zrVhxBwts9YFqyhyD1hRBOUq7p-0RGgNVu2OjBKYkmrCmDMZNd0f3nKfEfFEyJ.8j8EEY4KoxDwHgbI) | [Recording](https://generalassembly.zoom.us/rec/share/TDVeK-nH0qHOwY169iavbkJhMYeeIH5LW98E_CFJ9xUQV9XKgnDmRDizjPSl6h5g.aoB43s1k8XfmQCy4) |
-  | Passcode: ` ` | Passcode: `fKA.Wp6=` | Passcode: `g.CVB6Ua` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/Yz7C8Ioygn8ttAUNH_tVVi7O2jtpGwZgx3vbWxH8dQqpZEuTjEGrkqil_4J0rF-p.wjHvSspxxQwPLVVv) | [Recording](https://generalassembly.zoom.us/rec/share/39zrVhxBwts9YFqyhyD1hRBOUq7p-0RGgNVu2OjBKYkmrCmDMZNd0f3nKfEfFEyJ.8j8EEY4KoxDwHgbI) | [Recording](https://generalassembly.zoom.us/rec/share/TDVeK-nH0qHOwY169iavbkJhMYeeIH5LW98E_CFJ9xUQV9XKgnDmRDizjPSl6h5g.aoB43s1k8XfmQCy4) |
+  | Passcode: `*5t&a6kn` | Passcode: `fKA.Wp6=` | Passcode: `g.CVB6Ua` |
 
   </p></details></li>
 
