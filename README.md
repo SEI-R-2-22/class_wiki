@@ -496,9 +496,9 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to Express](https://github.com/SEI-R-2-22/u2_lesson_express_intro) | [MongoDB](https://github.com/SEI-R-2-22/u2_lesson_mongoDB) | [Mongoose Associations](https://github.com/SEI-R-2-22/u2_lesson_mongoose_associations) | [Full Stackathon](https://github.com/SEI-R-2-22/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-2-22/u2_full_stackathon) |
   | [Express Routes](https://github.com/SEI-R-2-22/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/SEI-R-2-22/u2_lab_mongoDB_sneakers) | [ERD](https://github.com/SEI-R-2-22/u2_lesson_ERD) | []() | []() |
-  | [Intro to Middleware](https://github.com/SEI-R-2-22/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-2-22/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/SEI-R-2-22/u2_lesson_group_git) | []() | []() |
-  | [Express Controllers](https://github.com/SEI-R-2-22/u2_lesson_express_controllers) | [Mongoose Express](https://github.com/SEI-R-2-22/u2_lesson_mongoose_express) | [Full Stackathon Planning HW](https://github.com/SEI-R-2-22/u2_full_stackathon) | []() | []() |
-  | [Express Fruits HW](https://github.com/SEI-R-2-22/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/SEI-R-2-22/u2_hw_mongoose_plants) | []() | []() | [Heroku Deployment Walkthrough](https://github.com/SEI-R-2-22/deployment_MERN) |
+  | [Intro to Middleware](https://github.com/SEI-R-2-22/u2_lesson_express_middleware) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-2-22/u2_lesson_mongoose_data_model) | [Group Git](https://github.com/SEI-R-2-22/u2_lesson_group_git) | []() | [Heroku Deployment Walkthrough](https://github.com/SEI-R-2-22/deployment_MERN) |
+  | [Express Controllers](https://github.com/SEI-R-2-22/u2_lesson_express_controllers) | [Mongoose Express](https://github.com/SEI-R-2-22/u2_lesson_mongoose_express) | [Full Stackathon Planning HW](https://github.com/SEI-R-2-22/u2_full_stackathon) | []() | [Heroku Deployment Recording](https://generalassembly.zoom.us/rec/share/RQk0dN8oiwddKZY0zYOgRwNxuq4wXeuih90hzs_rEQJ_GLCpGpeopevvY41tb8js.f17WJtb_GWsIUjxx) |
+  | [Express Fruits HW](https://github.com/SEI-R-2-22/u2_hw_express_fruits) | [Mongoose Plants HW](https://github.com/SEI-R-2-22/u2_hw_mongoose_plants) | []() | []() | Passcode: `km?RE77S` |
 
   <ul type="none">
 
@@ -526,6 +526,15 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/u3yvxZ86PgDNxO5ToEryk1PfGsbg6DPiVsV7P6xBoWyBil3o62T5FVlqBJ8mcR3n.xtF53Qd1OKUP0kBJ) | [Recording](https://generalassembly.zoom.us/rec/share/ca-sgT3wTcMbu0RbrvNGJ_cEqbaTJCYKnk3rj_MZTUIPS7wPnb8ZJBzw2bKD4Xab.aN0JwJ6ySNPj_M6z) | [Recording](https://generalassembly.zoom.us/rec/share/WefRppthvQSztIJq3OTGDcGicFOB8t-rzoK-h8PSDNN9f8kkqUwt4qLjMRiac2GK.KVs3SRcDv23k7zCC) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/qhgQNijhpLSRKcpejUcs9TOR4PeMVkuPE1ls0vIIZ51OsmMihvsHU2PcIYAmeCfY.dhRH4hKHPQ7WpMfX) |
   | Passcode: `@OV?1Z3*` | Passcode: `76M?ldC5` | Passcode: `a?GUG0y&` |  | Passcode: `ht4^g%f?` |
+
+  </p></details></li>
+    
+  <li><details><summary>Class Recordings - Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/39zrVhxBwts9YFqyhyD1hRBOUq7p-0RGgNVu2OjBKYkmrCmDMZNd0f3nKfEfFEyJ.8j8EEY4KoxDwHgbI) | [Recording](https://generalassembly.zoom.us/rec/share/TDVeK-nH0qHOwY169iavbkJhMYeeIH5LW98E_CFJ9xUQV9XKgnDmRDizjPSl6h5g.aoB43s1k8XfmQCy4) |
+  | Passcode: ` ` | Passcode: `fKA.Wp6=` | Passcode: `g.CVB6Ua` |
 
   </p></details></li>
 
