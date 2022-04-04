@@ -555,17 +555,16 @@ ___
   In Week 7, we are introduced to <b>React Redux</b> as a new way to manage our state in React! We learn about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learn how to map our state and actions to props. We also learn how to use a middleware called <b>thunk</b> in conjunction with Redux. We are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it!
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Install Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | []() | []() | []() | []() |
-  | [Intro to Redux](https://github.com/SEI-R-2-22/u3_lesson_redux_intro) | []() | []() | []() | []() |
-  | [Redux Reducers](https://github.com/SEI-R-2-22/u3_lesson_redux_reducers) | []() | []() | []() | []() |
-  | [Redux Actions & Types](https://github.com/SEI-R-2-22/u3_lesson_redux_actions_types) | []() | []() | []() | []() |
-  | [Mapping State & Actions to Props](https://github.com/SEI-R-2-22/u3_lesson_mapping_state_props) | []() | []() | []() | []() |
-  | [Redux Quiz](https://github.com/SEI-R-2-22/u3_hw_redux_quiz) | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
+  | [Install Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | [Redux Middleware](https://github.com/SEI-R-2-22/u3_lesson_redux_middleware) | [Redux Travel Blog Lab / HW](https://github.com/SEI-R-2-22/u3_lab_redux_travel_blog) | [SQL Intro](https://github.com/SEI-R-2-22/u3_lesson_SQL_intro) | [Database Design](https://github.com/SEI-R-2-22/u3_lesson_database_design) |
+  | [Intro to Redux](https://github.com/SEI-R-2-22/u3_lesson_redux_intro) | [Redux Movies Lab](https://github.com/SEI-R-2-22/u3_lab_redux_movies) | []() | [SQL Practice Lab](https://github.com/SEI-R-2-22/u3_lab_SQL_practice) | [Sequelize Intro](https://github.com/SEI-R-2-22/u3_lesson_sequelize_intro) |
+  | [Redux Reducers](https://github.com/SEI-R-2-22/u3_lesson_redux_reducers) | [Redux Travel Blog Lab / HW](https://github.com/SEI-R-2-22/u3_lab_redux_travel_blog) | []() | [SQL Joins](https://github.com/SEI-R-2-22/u3_lesson_SQL_joins) | [Sequelize Queries](https://github.com/SEI-R-2-22/u3_lesson_sequelize_queries) |
+  | [Redux Actions & Types](https://github.com/SEI-R-2-22/u3_lesson_redux_actions_types) | []() | []() | [SQL Joins Lab](https://github.com/SEI-R-2-22/u3_lab_SQL_joins) | [Sequelize Query Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_querying) |
+  | [Mapping State & Actions to Props](https://github.com/SEI-R-2-22/u3_lesson_mapping_state_props) | []() | []() | [Carmen Sandiego HW](https://github.com/SEI-R-2-22/u3_hw_carmen_sandiego) | [Sequelize Practice HW](https://github.com/SEI-R-2-22/u3_hw_sequelize_practice) |
+  | [Redux Quiz HW](https://github.com/SEI-R-2-22/u3_hw_redux_quiz) | []() | []() | []() | []() |
+
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -595,7 +594,7 @@ ___
   </p></details></li>
 
   </ul>
- -->
+
   ___
   </p></details></li>
 
