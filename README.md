@@ -588,8 +588,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/ybH_Y3Ecm9crn3LuIoUInga67SbaAXjTRooYpjyzna05b80EMpPEx6LRoEIsb-JX.GJ1ZY6pVhb51HiaP) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `u5yAds^$` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/ybH_Y3Ecm9crn3LuIoUInga67SbaAXjTRooYpjyzna05b80EMpPEx6LRoEIsb-JX.GJ1ZY6pVhb51HiaP) | [Recording](https://generalassembly.zoom.us/rec/share/JWiaE0BdND9H7mMtyAmw5KsXOMGFuWOzE6C1A0JwQWcaFXwTKP_pF4zTDY9J3AFY._CJis00TTKpjdUFc) | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `u5yAds^$` | Passcode: `y46@XRP6` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
