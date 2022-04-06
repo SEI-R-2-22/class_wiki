@@ -601,16 +601,16 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
 
   <p>
-  In Week 8, , <b>migrations</b>, and <b>associations</b>.  We also learn all about how to integrate <b>user authentication</b> in our apps.
+  In Week 8, we cover Sequelize <b>migrations</b> and <b>associations</b>, as well as how to set up <b>Sequelize with Express</b>.  Then we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
   </p>
 
 <!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | [Sequelize Migrations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/SEI-R-2-22/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-2-22/u3_lesson_JWT_auth) | [React Auth](https://github.com/SEI-R-2-22/u3_lesson_react_auth) | []() |
+  | [Migrations Exercise Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/SEI-R-2-22/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-2-22/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_complex_associations) | []() |
+  | [Sequelize Associations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/SEI-R-2-22/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/SEI-R-2-22/u3_project_prompt) | []() |
+  | [Associations Exercise Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
+  | [Associations & Migrations HW](https://github.com/SEI-R-2-22/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() | -->
 
