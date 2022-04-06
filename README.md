@@ -570,8 +570,8 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/JqjuimSRjCEhEOb_A-WcxaVkWmDFfYwjKEgeutDFMEdXdmm99UBNGWqBuymfKzMZ.ikwdtyFVQhOt8C8I) | [Recording](https://generalassembly.zoom.us/rec/share/eDg4Jtp5siIjkRcU0ltUBDSyJP5fPXIuBBZDFlzfCtIJe5SEoDbae11GPN6Dxg3_.xHehIOEsOsCOy4_Y) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `3hy^zF2K` | Passcode: `H?Ng*Ky3` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/JqjuimSRjCEhEOb_A-WcxaVkWmDFfYwjKEgeutDFMEdXdmm99UBNGWqBuymfKzMZ.ikwdtyFVQhOt8C8I) | [Recording](https://generalassembly.zoom.us/rec/share/eDg4Jtp5siIjkRcU0ltUBDSyJP5fPXIuBBZDFlzfCtIJe5SEoDbae11GPN6Dxg3_.xHehIOEsOsCOy4_Y) | No Recording | [Recording]() | [Recording]() |
+  | Passcode: `3hy^zF2K` | Passcode: `H?Ng*Ky3` |  | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -579,8 +579,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/AIiMCiFUvzFJmzhyTFaUMmcANc79iNM3fdia1FUj4UoUDSW-6D8FNofzuCsgTL2h.41bcMC-TS6Kzf7WH) | [Recording](https://generalassembly.zoom.us/rec/share/PVjN0rUaVtSScZJsEx7ePEov1xVelmitZ-qlCITYWSiLdcmUS4cHEn7JHVMsHQWj.ZpmZ4tfCI6zk74NR) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `M*QpRn0G` | Passcode: `4u@2fOqa` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/AIiMCiFUvzFJmzhyTFaUMmcANc79iNM3fdia1FUj4UoUDSW-6D8FNofzuCsgTL2h.41bcMC-TS6Kzf7WH) | [Recording](https://generalassembly.zoom.us/rec/share/PVjN0rUaVtSScZJsEx7ePEov1xVelmitZ-qlCITYWSiLdcmUS4cHEn7JHVMsHQWj.ZpmZ4tfCI6zk74NR) | No Recording | [Recording]() | [Recording]() |
+  | Passcode: `M*QpRn0G` | Passcode: `4u@2fOqa` |  | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -588,8 +588,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/ybH_Y3Ecm9crn3LuIoUInga67SbaAXjTRooYpjyzna05b80EMpPEx6LRoEIsb-JX.GJ1ZY6pVhb51HiaP) | [Recording](https://generalassembly.zoom.us/rec/share/JWiaE0BdND9H7mMtyAmw5KsXOMGFuWOzE6C1A0JwQWcaFXwTKP_pF4zTDY9J3AFY._CJis00TTKpjdUFc) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `u5yAds^$` | Passcode: `y46@XRP6` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/ybH_Y3Ecm9crn3LuIoUInga67SbaAXjTRooYpjyzna05b80EMpPEx6LRoEIsb-JX.GJ1ZY6pVhb51HiaP) | [Recording](https://generalassembly.zoom.us/rec/share/JWiaE0BdND9H7mMtyAmw5KsXOMGFuWOzE6C1A0JwQWcaFXwTKP_pF4zTDY9J3AFY._CJis00TTKpjdUFc) | No Recording | [Recording]() | [Recording]() |
+  | Passcode: `u5yAds^$` | Passcode: `y46@XRP6` |  | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
