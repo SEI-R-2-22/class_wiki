@@ -571,7 +571,7 @@ ___
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/JqjuimSRjCEhEOb_A-WcxaVkWmDFfYwjKEgeutDFMEdXdmm99UBNGWqBuymfKzMZ.ikwdtyFVQhOt8C8I) | [Recording](https://generalassembly.zoom.us/rec/share/eDg4Jtp5siIjkRcU0ltUBDSyJP5fPXIuBBZDFlzfCtIJe5SEoDbae11GPN6Dxg3_.xHehIOEsOsCOy4_Y) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `H?Ng*Ky3` | Passcode: `H?Ng*Ky3` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | Passcode: `3hy^zF2K` | Passcode: `H?Ng*Ky3` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
