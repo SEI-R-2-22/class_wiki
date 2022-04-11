@@ -570,8 +570,8 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/JqjuimSRjCEhEOb_A-WcxaVkWmDFfYwjKEgeutDFMEdXdmm99UBNGWqBuymfKzMZ.ikwdtyFVQhOt8C8I) | [Recording](https://generalassembly.zoom.us/rec/share/eDg4Jtp5siIjkRcU0ltUBDSyJP5fPXIuBBZDFlzfCtIJe5SEoDbae11GPN6Dxg3_.xHehIOEsOsCOy4_Y) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/al64wxSbAGS4nwjWGfZt5_I18jhBybNGrP7llQ1bw1qzeQdHJ8TuBvxfcYeS2jU.SZka1jGjJrBvgIQ6) | [Recording]() |
-  | Passcode: `3hy^zF2K` | Passcode: `H?Ng*Ky3` |  | Passcode: `5cd6w^bk` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/JqjuimSRjCEhEOb_A-WcxaVkWmDFfYwjKEgeutDFMEdXdmm99UBNGWqBuymfKzMZ.ikwdtyFVQhOt8C8I) | [Recording](https://generalassembly.zoom.us/rec/share/eDg4Jtp5siIjkRcU0ltUBDSyJP5fPXIuBBZDFlzfCtIJe5SEoDbae11GPN6Dxg3_.xHehIOEsOsCOy4_Y) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/al64wxSbAGS4nwjWGfZt5_I18jhBybNGrP7llQ1bw1qzeQdHJ8TuBvxfcYeS2jU.SZka1jGjJrBvgIQ6) | [Recording](https://generalassembly.zoom.us/rec/share/5XhoAnoLLhNNDmpVQ_TK2T-tWtWuEtbOQsBorkv464r29iPkLk2Q8c3f8ux-D7fO.79mvAHWn3CyNElNF) |
+  | Passcode: `3hy^zF2K` | Passcode: `H?Ng*Ky3` |  | Passcode: `5cd6w^bk` | Passcode: `=pD&Ft1x` |
 
   </p></details></li>
 
@@ -579,8 +579,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/AIiMCiFUvzFJmzhyTFaUMmcANc79iNM3fdia1FUj4UoUDSW-6D8FNofzuCsgTL2h.41bcMC-TS6Kzf7WH) | [Recording](https://generalassembly.zoom.us/rec/share/PVjN0rUaVtSScZJsEx7ePEov1xVelmitZ-qlCITYWSiLdcmUS4cHEn7JHVMsHQWj.ZpmZ4tfCI6zk74NR) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/NCr5lGp9q1noiTGFUyIZBY3d5bSZzKOmtb0qlgJ2s0dIj7F2zseThD_RBYVqNShj.m9M36iSzOPR_8BER) | [Recording]() |
-  | Passcode: `M*QpRn0G` | Passcode: `4u@2fOqa` |  | Passcode: `$K#*#+e1` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/AIiMCiFUvzFJmzhyTFaUMmcANc79iNM3fdia1FUj4UoUDSW-6D8FNofzuCsgTL2h.41bcMC-TS6Kzf7WH) | [Recording](https://generalassembly.zoom.us/rec/share/PVjN0rUaVtSScZJsEx7ePEov1xVelmitZ-qlCITYWSiLdcmUS4cHEn7JHVMsHQWj.ZpmZ4tfCI6zk74NR) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/NCr5lGp9q1noiTGFUyIZBY3d5bSZzKOmtb0qlgJ2s0dIj7F2zseThD_RBYVqNShj.m9M36iSzOPR_8BER) | [Recording](https://generalassembly.zoom.us/rec/share/76ML5mA4ySqplC3RgjhzCTiIdlY-q1GEAWCpa0QhBqsIJg8ADgAaKp-q1WuI5uE.H4XT-vwDVV1uhMyN) |
+  | Passcode: `M*QpRn0G` | Passcode: `4u@2fOqa` |  | Passcode: `$K#*#+e1` | Passcode: `x?1F@ZTF` |
 
   </p></details></li>
 
@@ -588,8 +588,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/ybH_Y3Ecm9crn3LuIoUInga67SbaAXjTRooYpjyzna05b80EMpPEx6LRoEIsb-JX.GJ1ZY6pVhb51HiaP) | [Recording](https://generalassembly.zoom.us/rec/share/JWiaE0BdND9H7mMtyAmw5KsXOMGFuWOzE6C1A0JwQWcaFXwTKP_pF4zTDY9J3AFY._CJis00TTKpjdUFc) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/2WOBBu1hCSBeAMX0xE_FJYucKmTaxYja91J7hW3gAxP_3rDhGJDiK0gwEjstzRPF.00EFIovc0cf0g_tW) | [Recording]() |
-  | Passcode: `u5yAds^$` | Passcode: `y46@XRP6` |  | Passcode: `D5k=3A65` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/ybH_Y3Ecm9crn3LuIoUInga67SbaAXjTRooYpjyzna05b80EMpPEx6LRoEIsb-JX.GJ1ZY6pVhb51HiaP) | [Recording](https://generalassembly.zoom.us/rec/share/JWiaE0BdND9H7mMtyAmw5KsXOMGFuWOzE6C1A0JwQWcaFXwTKP_pF4zTDY9J3AFY._CJis00TTKpjdUFc) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/2WOBBu1hCSBeAMX0xE_FJYucKmTaxYja91J7hW3gAxP_3rDhGJDiK0gwEjstzRPF.00EFIovc0cf0g_tW) | [Recording](https://generalassembly.zoom.us/rec/share/cVW4_P-TA-zM-DGDT1-NShHisrPlKVM4k_uF_6EzdgSwSD6m3qrepaMSVrR4uTig.Do00qDliV3Mav6r4) |
+  | Passcode: `u5yAds^$` | Passcode: `y46@XRP6` |  | Passcode: `D5k=3A65` | Passcode: `6Fa.ZQXQ` |
 
   </p></details></li>
 
@@ -604,17 +604,15 @@ ___
   In Week 8, we cover Sequelize <b>migrations</b> and <b>associations</b>, as well as how to set up <b>Sequelize with Express</b>.  Then we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Sequelize Migrations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/SEI-R-2-22/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-2-22/u3_lesson_JWT_auth) | [React Auth](https://github.com/SEI-R-2-22/u3_lesson_react_auth) | []() |
   | [Migrations Exercise Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/SEI-R-2-22/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-2-22/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_complex_associations) | []() |
   | [Sequelize Associations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/SEI-R-2-22/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/SEI-R-2-22/u3_project_prompt) | []() |
   | [Associations Exercise Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
   | [Associations & Migrations HW](https://github.com/SEI-R-2-22/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | -->
 
-<!--   <ul type="none">
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -643,7 +641,7 @@ ___
 
   </p></details></li>
 
-  </ul> -->
+  </ul>
 
   </p></details></li>
 
