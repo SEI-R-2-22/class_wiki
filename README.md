@@ -606,7 +606,7 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Sequelize Migrations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/SEI-R-2-22/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-2-22/u3_lesson_JWT_auth) | [React Auth](https://github.com/SEI-R-2-22/u3_lesson_react_auth) | []() |
+  | [Sequelize Migrations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/SEI-R-2-22/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-2-22/u3_lesson_JWT_auth) | [React Auth](https://github.com/SEI-R-2-22/u3_lesson_react_auth) | [P3 Pitch Presentations](https://github.com/SEI-R-2-22/u3_project_prompt) |
   | [Migrations Exercise Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/SEI-R-2-22/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-2-22/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_complex_associations) | []() |
   | [Sequelize Associations](https://github.com/SEI-R-2-22/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/SEI-R-2-22/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/SEI-R-2-22/u3_project_prompt) | []() |
   | [Associations Exercise Lab](https://github.com/SEI-R-2-22/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
