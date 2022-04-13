@@ -618,8 +618,8 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/7lftHvPcez2Ew7L3AaYPZ1v4vbSCUr7jSTmbGgzHNQfYyXuczAaRY1k8IObTK--2.IqGFQhSUxNxjJjkc) | [Recording](https://generalassembly.zoom.us/rec/share/jcw2EZmE4w8SQ9MHEAA9r3giPOb0kKKxa8es8WQYmoRzraRF9_EgsqkrWqqaID7G.CzGfrgZhOyJvKkUz) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `50A=dD^@` | Passcode: `%T+0Wq9+` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/7lftHvPcez2Ew7L3AaYPZ1v4vbSCUr7jSTmbGgzHNQfYyXuczAaRY1k8IObTK--2.IqGFQhSUxNxjJjkc) | [Recording](https://generalassembly.zoom.us/rec/share/jcw2EZmE4w8SQ9MHEAA9r3giPOb0kKKxa8es8WQYmoRzraRF9_EgsqkrWqqaID7G.CzGfrgZhOyJvKkUz) | [Recording](https://generalassembly.zoom.us/rec/share/e33AYJs66Ly-NIOMcVepLY_oDifjZnyINFR0XiXZB50mTXZSplEmJO0IeZwqyU5Z.DYtCbCiCJqn3eG40) | [Recording]() | [Recording]() |
+  | Passcode: `50A=dD^@` | Passcode: `%T+0Wq9+` | Passcode: `6H8iRCC@` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
@@ -627,8 +627,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/XRor2_yT5HX8QSKlXTEtiTOEK7TK7-gZbmx26o8HLDgK1Tt-Nf-yu_Fe1V2VbQOg.gbdv5A78X8zm_cXF) | [Recording](https://generalassembly.zoom.us/j/98106401436?pwd=d254WGkvVmhrcUxBV0htZ1lvazBBdz09) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `J&6&J2D!` | Passcode: `ze0yMc9&` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/XRor2_yT5HX8QSKlXTEtiTOEK7TK7-gZbmx26o8HLDgK1Tt-Nf-yu_Fe1V2VbQOg.gbdv5A78X8zm_cXF) | [Recording](https://generalassembly.zoom.us/j/98106401436?pwd=d254WGkvVmhrcUxBV0htZ1lvazBBdz09) | [Recording](https://generalassembly.zoom.us/rec/share/e33AYJs66Ly-NIOMcVepLY_oDifjZnyINFR0XiXZB50mTXZSplEmJO0IeZwqyU5Z.DYtCbCiCJqn3eG40) | [Recording]() | [Recording]() |
+  | Passcode: `J&6&J2D!` | Passcode: `ze0yMc9&` | Passcode: `6H8iRCC@` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
 
