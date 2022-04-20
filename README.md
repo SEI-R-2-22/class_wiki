@@ -660,13 +660,12 @@ ___
 
 <!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | [Vue Intro](https://github.com/SEI-R-2-22/u4_lesson_vue_introduction) | [Portfolio Lab]() | [Vue API Lab](https://github.com/SEI-R-2-22/u4_lab_vue_API) | [Portfolio Lab]() | [Intro to Python](https://github.com/SEI-R-2-22/u4_lesson_python_intro) |
+  | [Vue Components & Props](https://github.com/SEI-R-2-22/u4_lesson_vue_components_props) | [Vue Events & Emitters](https://github.com/SEI-R-2-22/u4_lesson_vue_events_emitters) | [Vue Messenger HW](https://github.com/SEI-R-2-22/u4_hw_vue_messenger) | [Vue Router](https://github.com/SEI-R-2-22/u4_lesson_vue_router) | [Python Functions](https://github.com/SEI-R-2-22/u4_lesson_python_functions) |
+  | [Vue State](https://github.com/SEI-R-2-22/u4_lesson_vue_state) | [Vue w/ APIs](https://github.com/SEI-R-2-22/u4_lesson_vue_APIs) | []() | [Vue RAWG Lab / HW](https://github.com/SEI-R-2-22/u4_hw_vue_RAWG) | [Python Control Flow](https://github.com/SEI-R-2-22/u4_lesson_python_control_flow) |
+  | [Vue Directives](https://github.com/SEI-R-2-22/u4_lesson_vue_directives) | [Vue Rock, Paper, Scissor Lab / HW](https://github.com/SEI-R-2-22/u4_lab_vue_rock_paper_scissor) | []() | []() | [Python Lists & Loops](https://github.com/SEI-R-2-22/u4_lesson_python_lists_loops) |
+  | [Vue Quiz](https://docs.google.com/forms/d/e/1FAIpQLScEDwI0NYlQYtHNWaGuRvs1cUJvzLUsJOpukbdDiTWhbJBgpg/viewform) | []() | []() | []() | [Python Dictionaries](https://github.com/SEI-R-2-22/u4_lesson_python_dictionaries) |
+  | []() | []() | []() | []() | [Python Choose Your Own Adventure HW](https://github.com/SEI-R-2-22/u4_hw_python_adventure) |
  -->
 <!--   <ul type="none">
 
