@@ -13,7 +13,7 @@ Deliverable Pull Request Guidelines can be found [here](https://github.com/SEI-R
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-2-22/daily_js_challenges).
 
-Computer Science Algorithms & Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures).
+Computer Science - Algorithms & Data Structures can be found [here](https://github.com/SEI-R-2-22/cs_data_structures).
 
 ____
 <details><summary><strong>General Assembly Team</strong></summary><p>
