@@ -658,7 +658,7 @@ ___
   In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Vue Intro](https://github.com/SEI-R-2-22/u4_lesson_vue_introduction) | [Portfolio Lab]() | [Vue API Lab](https://github.com/SEI-R-2-22/u4_lab_vue_API) | [Portfolio Lab]() | [Intro to Python](https://github.com/SEI-R-2-22/u4_lesson_python_intro) |
   | [Vue Components & Props](https://github.com/SEI-R-2-22/u4_lesson_vue_components_props) | [Vue Events & Emitters](https://github.com/SEI-R-2-22/u4_lesson_vue_events_emitters) | [Vue Messenger HW](https://github.com/SEI-R-2-22/u4_hw_vue_messenger) | [Vue Router](https://github.com/SEI-R-2-22/u4_lesson_vue_router) | [Python Functions](https://github.com/SEI-R-2-22/u4_lesson_python_functions) |
@@ -666,8 +666,8 @@ ___
   | [Vue Directives](https://github.com/SEI-R-2-22/u4_lesson_vue_directives) | [Vue Rock, Paper, Scissor Lab / HW](https://github.com/SEI-R-2-22/u4_lab_vue_rock_paper_scissor) | []() | []() | [Python Lists & Loops](https://github.com/SEI-R-2-22/u4_lesson_python_lists_loops) |
   | [Vue Quiz](https://docs.google.com/forms/d/e/1FAIpQLScEDwI0NYlQYtHNWaGuRvs1cUJvzLUsJOpukbdDiTWhbJBgpg/viewform) | []() | []() | []() | [Python Dictionaries](https://github.com/SEI-R-2-22/u4_lesson_python_dictionaries) |
   | []() | []() | []() | []() | [Python Choose Your Own Adventure HW](https://github.com/SEI-R-2-22/u4_hw_python_adventure) |
- -->
-<!--   <ul type="none">
+
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -697,7 +697,7 @@ ___
   </p></details></li>
 
   </ul>
- -->
+
   ___
   </p></details></li>
 
