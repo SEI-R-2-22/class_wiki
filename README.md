@@ -640,6 +640,15 @@ ___
   | Passcode: `JT0a=L*8` | Passcode: `Eb6HW+$Z` | Passcode: `PXZ6s8?b` | Passcode: `*61xA?@m` | Passcode: `9$Qm1m*.` |
 
   </p></details></li>
+    
+  <li><details><summary>Class Recordings - Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/NgnY84ccCc9etzbdJ0UaAnoPaNr8n6K1_9aXMn8AuTG0CQVxaxpZgXDMi6peWDhr.CHW7HaO1_Or7qhQY) | [Recording](https://generalassembly.zoom.us/rec/share/-F4yat62J-U-Z7X5O9QX3e2HbiPD6UA3WgW_pRcTsopNYRt9QT7tO7uxZYO2L2M.xD6L3zHhpszI0jKW) | [Recording](https://generalassembly.zoom.us/rec/share/MZWc9wpGDiDn3HXR4jEapijEiJJAcyx5UMgb-AqhqFnrAyjk25_W5cFX0hrwjh2M.yukTreRJpJ71jF-B) |
+  | Passcode: `$GqA1Tgx` | Passcode: `JfK^0u$r` | Passcode: `DB4e1By^` |
+
+  </p></details></li>
 
   </ul>
 
