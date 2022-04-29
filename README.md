@@ -716,17 +716,15 @@ ___
   In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up Auth in Django. At the end of the week, we get to participate in a <b>Djangathon</b>!
   </p>
 
-<!--   | Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
- -->
-<!--   <ul type="none">
+  | [Python Tuples](https://github.com/SEI-R-2-22/-u4_lesson_python_tuples) | [Django Intro](https://github.com/SEI-R-2-22/u4_lesson_django_intro) | [Django REST API Lesson](https://github.com/SEI-R-2-22/u4_lesson_django_REST_API) | [P4 Project Approvals](https://github.com/SEI-R-2-22/u4_project_prompt) | [Project Work Time](https://github.com/SEI-R-2-22/u4_project_prompt) |
+  | [Python Tuple Lab](https://github.com/SEI-R-2-22/u4_lab_python_tuple_exercise) | [Django Views](https://github.com/SEI-R-2-22/u4_lesson_django_views) | [Django REST API Lab / HW](https://github.com/SEI-R-2-22/u4_lab_django_REST_API) | []() | []() |
+  | [Python OOP](https://github.com/SEI-R-2-22/u4_lesson_python_OOP) | [NostalDja Lab / HW](https://github.com/SEI-R-2-22/u4_lab_nostaldja) | []() | []() | []() |
+  | [CSV Parser Lab](https://github.com/SEI-R-2-22/u4_lab_python_CSV_parser) | []() | [P4 Prompt](https://github.com/SEI-R-2-22/u4_project_prompt) | []() | []() |
+  | [Python Smash Bros HW](https://github.com/SEI-R-2-22/u4_hw_python_smash_bros) | []() | []() | []() | []() |
+
+  <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
 
@@ -755,7 +753,7 @@ ___
 
   </p></details></li>
 
-  </ul> -->
+  </ul>
 
   </p></details></li>
 
