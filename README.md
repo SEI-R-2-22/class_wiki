@@ -720,8 +720,8 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [Python Tuples](https://github.com/SEI-R-2-22/-u4_lesson_python_tuples) | [Django Intro](https://github.com/SEI-R-2-22/u4_lesson_django_intro) | [Django REST API Lesson](https://github.com/SEI-R-2-22/u4_lesson_django_REST_API) | [P4 Project Approvals](https://github.com/SEI-R-2-22/u4_project_prompt) | [Project Work Time](https://github.com/SEI-R-2-22/u4_project_prompt) |
   | [Python Tuple Lab](https://github.com/SEI-R-2-22/u4_lab_python_tuple_exercise) | [Django Views](https://github.com/SEI-R-2-22/u4_lesson_django_views) | [Django REST API Lab / HW](https://github.com/SEI-R-2-22/u4_lab_django_REST_API) | []() | []() |
-  | [Python OOP](https://github.com/SEI-R-2-22/u4_lesson_python_OOP) | [NostalDja Lab / HW](https://github.com/SEI-R-2-22/u4_lab_nostaldja) | []() | []() | []() |
-  | [CSV Parser Lab](https://github.com/SEI-R-2-22/u4_lab_python_CSV_parser) | []() | [P4 Prompt](https://github.com/SEI-R-2-22/u4_project_prompt) | []() | []() |
+  | [Python OOP](https://github.com/SEI-R-2-22/u4_lesson_python_OOP) | [NostalDja Lab / HW](https://github.com/SEI-R-2-22/u4_lab_nostaldja) | [P4 Prompt](https://github.com/SEI-R-2-22/u4_project_prompt) | []() | []() |
+  | [CSV Parser Lab](https://github.com/SEI-R-2-22/u4_lab_python_CSV_parser) | []() | []() | []() | []() |
   | [Python Smash Bros HW](https://github.com/SEI-R-2-22/u4_hw_python_smash_bros) | []() | []() | []() | []() |
 
   <ul type="none">
