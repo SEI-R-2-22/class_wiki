@@ -713,7 +713,7 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
 
   <p>
-  In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up Auth in Django. At the end of the week, we get to participate in a <b>Djangathon</b>!
+  In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. At the end of the week, we begin our <b>Capstone Project</b>!
   </p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
