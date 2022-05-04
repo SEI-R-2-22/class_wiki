@@ -730,8 +730,8 @@ ___
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/0NUoximnOpjZrwhkqHErq38lAEbBj7SOgDCj6_Im-du9GCPeKSv7gYfyl7kxBCRX.D0HyJQfYdiM7nOnf) | [Recording]() | [Recording]() | [Recording]() |
-  |  | Passcode: `!DVFT%3b` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/0NUoximnOpjZrwhkqHErq38lAEbBj7SOgDCj6_Im-du9GCPeKSv7gYfyl7kxBCRX.D0HyJQfYdiM7nOnf) | [Recording]() | No Recording | No Recording |
+  |  | Passcode: `!DVFT%3b` | Passcode: ` ` |  |  |
 
   </p></details></li>
 
@@ -739,8 +739,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/kpVqrArfPeO-BCBFkaUjWA6s92WL5bPU2K8dXez3cdsaByBdAcAqJhMes7d10Rq8.zXn-JxyfCGV4suNo) | [Recording](https://generalassembly.zoom.us/rec/share/0NUoximnOpjZrwhkqHErq38lAEbBj7SOgDCj6_Im-du9GCPeKSv7gYfyl7kxBCRX.D0HyJQfYdiM7nOnf) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `Me.E!tj6` | Passcode: `!DVFT%3b` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/kpVqrArfPeO-BCBFkaUjWA6s92WL5bPU2K8dXez3cdsaByBdAcAqJhMes7d10Rq8.zXn-JxyfCGV4suNo) | [Recording](https://generalassembly.zoom.us/rec/share/0NUoximnOpjZrwhkqHErq38lAEbBj7SOgDCj6_Im-du9GCPeKSv7gYfyl7kxBCRX.D0HyJQfYdiM7nOnf) | [Recording]() | No Recording | No Recording |
+  | Passcode: `Me.E!tj6` | Passcode: `!DVFT%3b` | Passcode: ` ` |  |  |
 
   </p></details></li>
 
@@ -748,8 +748,8 @@ ___
 
  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/0NUoximnOpjZrwhkqHErq38lAEbBj7SOgDCj6_Im-du9GCPeKSv7gYfyl7kxBCRX.D0HyJQfYdiM7nOnf) | [Recording]() | [Recording]() | [Recording]() |
-  |  | Passcode: `!DVFT%3b` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/0NUoximnOpjZrwhkqHErq38lAEbBj7SOgDCj6_Im-du9GCPeKSv7gYfyl7kxBCRX.D0HyJQfYdiM7nOnf) | [Recording]() | No Recording | No Recording |
+  |  | Passcode: `!DVFT%3b` | Passcode: ` ` |  |  |
 
   </p></details></li>
 
