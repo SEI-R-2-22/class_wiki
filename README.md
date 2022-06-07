@@ -43,7 +43,7 @@ ____
 ____
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/At6UUjZ.png" alt="nabila">
+  <img width="200px" src="https://i.imgur.com/4EGLSQa.png" alt="nabila">
   <h3>Nabila Ayaba</h3>
   <h4>Instructional Associate</h4>
   <p>Hello, my name is Nabila and I'm the <b>Instructional Associate</b> for Group 1 for the duration of the Immersive.  I will provide support during lessons, grade your assignments, take attendance and help with troubleshooting.</p>
